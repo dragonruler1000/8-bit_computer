@@ -10,7 +10,12 @@ This is my journal of the design and building process of **8-bit computer**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/259).
 
 
-## 10/14/2025 - Set up the clock module  
+## 10/14/2025 10 AM - Set up the clock module  
 
 Made the clock module schematic following the schematic that Ben Eater made. It took me a little bit for me to figure out what RV1 was turns out it was a Potentiometer. I have also stared work on the a-register. I still need to figure out how to make it different from the one Ben Eater made so I'm not just copying his schematic and calling it my own. ![Screenshot_20251014_104442.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIwMywicHVyIjoiYmxvYl9pZCJ9fQ==--0414950fb8ee1dacb4ae17ba9ccf1d42f8d0abc1/Screenshot_20251014_104442.png)  
+
+## 10/14/2025 11 AM - layed out the schematic for the a-register and b-register  
+
+I got the a-register schematic layed out and all the connections set up. sense i just needed to grab the components and nothing was really hard to find it didn't take to hard to make. sense the b register is basically the same (the only difference is the output names) I just copied the existing schematic file and hierarchical sheet and edited it to make it work.
+![Screenshot_20251014_111732.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIxMywicHVyIjoiYmxvYl9pZCJ9fQ==--503a58eb351ad3e66d941f6c948d3f7b6ec3daad/Screenshot_20251014_111732.png)  
 
