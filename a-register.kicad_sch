@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "175707c0-d105-403e-8dec-010e5e954574")
 	(paper "A4")
+	(title_block
+		(title "8 bit PC")
+		(date "2025-10-14")
+		(rev "1")
+	)
 	(lib_symbols
 		(symbol "74xx:74LS173"
 			(pin_names
@@ -3086,10 +3091,6 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "D16")
-					(unit 1)
-				)
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
 					(reference "D8")
 					(unit 1)
@@ -3169,10 +3170,6 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "D15")
-					(unit 1)
-				)
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
 					(reference "D7")
 					(unit 1)
@@ -3190,7 +3187,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38eb48e2-e255-4fea-8459-e4efe3e48c89")
-		(property "Reference" "U"
+		(property "Reference" "U?"
 			(at 213.36 58.3498 90)
 			(effects
 				(font
@@ -3283,8 +3280,8 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "U12")
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
+					(reference "U?")
 					(unit 1)
 				)
 			)
@@ -3300,7 +3297,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c854a93-2a4b-4c87-b3e3-9cab9411cc7f")
-		(property "Reference" "#PWR"
+		(property "Reference" "#PWR?"
 			(at 260.35 74.93 0)
 			(effects
 				(font
@@ -3349,8 +3346,8 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "#PWR017")
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -3366,7 +3363,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68f6de96-422c-4c42-862c-9b44a3fd4c78")
-		(property "Reference" "U"
+		(property "Reference" "U?"
 			(at 87.63 52.9746 90)
 			(effects
 				(font
@@ -3471,8 +3468,8 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "U10")
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
+					(reference "U?")
 					(unit 1)
 				)
 			)
@@ -3488,7 +3485,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b110f34b-ca23-427b-973d-3fee31cdf1e5")
-		(property "Reference" "#PWR"
+		(property "Reference" "#PWR?"
 			(at 226.06 60.96 0)
 			(effects
 				(font
@@ -3537,8 +3534,8 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "#PWR015")
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -3554,7 +3551,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b466fe40-ea39-4fde-9804-81bc4d626f91")
-		(property "Reference" "#PWR"
+		(property "Reference" "#PWR?"
 			(at 260.35 64.77 0)
 			(effects
 				(font
@@ -3603,8 +3600,8 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "#PWR016")
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -3682,10 +3679,6 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "D10")
-					(unit 1)
-				)
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
 					(reference "D2")
 					(unit 1)
@@ -3703,7 +3696,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5e59dff-bb81-4fa9-b7df-5d45d2f2cb87")
-		(property "Reference" "C"
+		(property "Reference" "C?"
 			(at 264.16 63.4999 0)
 			(effects
 				(font
@@ -3756,8 +3749,8 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "C9")
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
+					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -3835,10 +3828,6 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "D11")
-					(unit 1)
-				)
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
 					(reference "D3")
 					(unit 1)
@@ -3856,7 +3845,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf7573e6-7375-48b5-a9a4-16fc6cf5561d")
-		(property "Reference" "#PWR"
+		(property "Reference" "#PWR?"
 			(at 88.9 69.85 0)
 			(effects
 				(font
@@ -3905,8 +3894,8 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "#PWR014")
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -3984,10 +3973,6 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "D12")
-					(unit 1)
-				)
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
 					(reference "D4")
 					(unit 1)
@@ -4005,7 +3990,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc12cba3-280d-4bec-b719-6cbaa88fffc7")
-		(property "Reference" "U"
+		(property "Reference" "U?"
 			(at 154.94 58.3498 90)
 			(effects
 				(font
@@ -4098,8 +4083,8 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "U11")
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
+					(reference "U?")
 					(unit 1)
 				)
 			)
@@ -4177,10 +4162,6 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "D13")
-					(unit 1)
-				)
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
 					(reference "D5")
 					(unit 1)
@@ -4260,10 +4241,6 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "D17")
-					(unit 1)
-				)
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
 					(reference "D9")
 					(unit 1)
@@ -4343,10 +4320,6 @@
 		)
 		(instances
 			(project "8-Bit-PC"
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "D14")
-					(unit 1)
-				)
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
 					(reference "D6")
 					(unit 1)

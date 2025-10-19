@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "175707c0-d105-403e-8dec-010e5e954574")
 	(paper "A4")
+	(title_block
+		(title "8 bit PC")
+		(date "2025-10-14")
+		(rev "1")
+	)
 	(lib_symbols
 		(symbol "74xx:74LS173"
 			(pin_names
@@ -3090,10 +3095,6 @@
 					(reference "D8")
 					(unit 1)
 				)
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
-					(reference "D8")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -3170,10 +3171,6 @@
 		(instances
 			(project "8-Bit-PC"
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "D7")
-					(unit 1)
-				)
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
 					(reference "D7")
 					(unit 1)
 				)
@@ -3706,10 +3703,6 @@
 					(reference "D2")
 					(unit 1)
 				)
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
-					(reference "D2")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -3863,10 +3856,6 @@
 					(reference "D3")
 					(unit 1)
 				)
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
-					(reference "D3")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4013,10 +4002,6 @@
 		(instances
 			(project "8-Bit-PC"
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "D4")
-					(unit 1)
-				)
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
 					(reference "D4")
 					(unit 1)
 				)
@@ -4213,10 +4198,6 @@
 					(reference "D5")
 					(unit 1)
 				)
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
-					(reference "D5")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4296,10 +4277,6 @@
 					(reference "D9")
 					(unit 1)
 				)
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
-					(reference "D9")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4376,10 +4353,6 @@
 		(instances
 			(project "8-Bit-PC"
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
-					(reference "D6")
-					(unit 1)
-				)
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/0da64945-ad09-4cb6-87e6-9538c18b83c8"
 					(reference "D6")
 					(unit 1)
 				)
