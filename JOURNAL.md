@@ -19,3 +19,10 @@ Made the clock module schematic following the schematic that Ben Eater made. It 
 I got the a-register schematic layed out and all the connections set up. sense i just needed to grab the components and nothing was really hard to find it didn't take to hard to make. sense the b register is basically the same (the only difference is the output names) I just copied the existing schematic file and hierarchical sheet and edited it to make it work.
 ![Screenshot_20251014_111732.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIxMywicHVyIjoiYmxvYl9pZCJ9fQ==--503a58eb351ad3e66d941f6c948d3f7b6ec3daad/Screenshot_20251014_111732.png)  
 
+## 10/19/2025 - Made the scematic for the ALU and flags register  
+
+set up the flags register and the ALU schematic. it wasn't to hard to do but i did figure out how to make the schematic look better so it probably looks better then my previous schematics. I also figured out that there is a version control function built into KiCad though i may stick to the command line for the future.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--edb4d5dab8a4c14b641bf7c07b2b16b2de5177f0/image.png)
+  
+
