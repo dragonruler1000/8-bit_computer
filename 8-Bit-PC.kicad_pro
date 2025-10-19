@@ -424,6 +424,10 @@
     [
       "01639e59-f640-4704-bff8-92b5a7e3f002",
       "b-register"
+    ],
+    [
+      "f8e3ccdb-83a4-4ccb-8da4-2a9a22094d5c",
+      "ALU"
     ]
   ],
   "text_variables": {}
