@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **8-bit computer**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/259).
-
-
 ## 10/14/2025 10 AM - Set up the clock module  
 
 Made the clock module schematic following the schematic that Ben Eater made. It took me a little bit for me to figure out what RV1 was turns out it was a Potentiometer. I have also stared work on the a-register. I still need to figure out how to make it different from the one Ben Eater made so I'm not just copying his schematic and calling it my own. ![Screenshot_20251014_104442.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIwMywicHVyIjoiYmxvYl9pZCJ9fQ==--0414950fb8ee1dacb4ae17ba9ccf1d42f8d0abc1/Screenshot_20251014_104442.png)  
@@ -24,5 +20,11 @@ I got the a-register schematic layed out and all the connections set up. sense i
 set up the flags register and the ALU schematic. it wasn't to hard to do but i did figure out how to make the schematic look better so it probably looks better then my previous schematics. I also figured out that there is a version control function built into KiCad though i may stick to the command line for the future.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--edb4d5dab8a4c14b641bf7c07b2b16b2de5177f0/image.png)
+  
+
+## 10/21/2025 - Made the MAR module  
+
+I made the schematic for the MAR module witch was pretty easy as non of the parts needed swapped out. I didn't really learn any thing new in the process other then if you hold control you can move things off the grid.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--aeb01d592da6778ed581c8fa601a26a26e73ff8c/image.png)
   
 
