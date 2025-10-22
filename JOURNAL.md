@@ -28,3 +28,11 @@ I made the schematic for the MAR module witch was pretty easy as non of the part
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--aeb01d592da6778ed581c8fa601a26a26e73ff8c/image.png)
   
 
+## 10/22/2025 - Make a symbol for the 74189 ram chip  
+
+Sense i couldn't find a symbol or a alternative that works with out extensive upgrades to the rest of the computer i decided to make a symbol biased on data sheet linked to by Ben Eater.
+I managed it by essentially copying the connection diagram from the data sheet and turning it into a symbol then using the block diagram to figure out the what pins where outputs.
+I figgured out how to use the symbol editor and how to tell what pins are inputs and what pins are outputs.
+![74F189SJ.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--89dc7ce9dd2e05fb48278ff53f9645d6629169de/74F189SJ.png)
+  
+
