@@ -567,6 +567,48 @@
 		)
 	)
 	(sheet
+		(at 59.69 142.24)
+		(size 21.59 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e1e5a374-9212-41f7-96e1-3a943d3930f9")
+		(property "Sheetname" "MAR"
+			(at 59.69 141.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mar.kicad_sch"
+			(at 59.69 174.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "8-Bit-PC"
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 96.52 90.17)
 		(size 24.13 40.64)
 		(exclude_from_sim no)
@@ -604,6 +646,48 @@
 			(project "8-Bit-PC"
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918"
 					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 133.35 152.4)
+		(size 12.7 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fa2f47c1-e570-4190-9168-df734bfd379c")
+		(property "Sheetname" "RAM"
+			(at 133.35 151.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ram.kicad_sch"
+			(at 133.35 173.3046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "8-Bit-PC"
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918"
+					(page "7")
 				)
 			)
 		)
