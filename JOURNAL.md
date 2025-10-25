@@ -36,3 +36,10 @@ I figgured out how to use the symbol editor and how to tell what pins are inputs
 ![74F189SJ.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--89dc7ce9dd2e05fb48278ff53f9645d6629169de/74F189SJ.png)
   
 
+## 10/25/2025 - Made the RAM module  
+
+I made the ram module for the PC. but sense i used a custom symbol for one of the chips i need it isn't as clean as i would have hoped but it works.
+It was a little harder then the other modules because the custom symbols didn't match the pin names of the symbols on the reference schematic so i needed to make sure that i was matching the pin names and not the pin numbers.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--4c8a7bb9ea4240db2bd383e1365923daa1d4a5b4/image.png)
+  
+
