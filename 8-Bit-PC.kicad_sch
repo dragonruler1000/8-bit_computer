@@ -567,6 +567,48 @@
 		)
 	)
 	(sheet
+		(at 130.81 91.44)
+		(size 24.13 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dad9cd65-e3a7-49ca-8062-7aceccd968fb")
+		(property "Sheetname" "Program Counter"
+			(at 130.81 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PC.kicad_sch"
+			(at 130.81 133.9346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "8-Bit-PC"
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 59.69 142.24)
 		(size 21.59 31.75)
 		(exclude_from_sim no)

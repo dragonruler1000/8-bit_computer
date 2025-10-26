@@ -637,6 +637,10 @@
     [
       "fa2f47c1-e570-4190-9168-df734bfd379c",
       "RAM"
+    ],
+    [
+      "dad9cd65-e3a7-49ca-8062-7aceccd968fb",
+      "Program Counter"
     ]
   ],
   "text_variables": {}
