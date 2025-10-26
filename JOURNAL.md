@@ -64,3 +64,8 @@ I got the schematic for the control module set up. it wasn't very hard though i 
 ![Screenshot_20251026_141857](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--2be6deb95108e0b35235c309998a77805527b797/Screenshot_20251026_141857.png)
   
 
+## 10/26/2025 4 PM - finnised makeing the schematics  
+
+I originally connected everything using busses and wires until i got to the end of my first wiring run at witch point i was using global labels to connect stuff. After i finished everything i realized that i may have messed stuff up because the way i set up the busses might not have worked at witch point i switched to using global labels for connecting over long distances.
+![Screenshot_20251026_165409](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTgyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--4bd96d94e1b8c2c169f6b67b09845199ded7aaa9/Screenshot_20251026_165409.png)  
+
