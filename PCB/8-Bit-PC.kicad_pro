@@ -641,6 +641,14 @@
     [
       "dad9cd65-e3a7-49ca-8062-7aceccd968fb",
       "Program Counter"
+    ],
+    [
+      "ce70f6b7-a244-4015-92a7-c586e7888688",
+      "Output"
+    ],
+    [
+      "d073e50d-b064-481f-8def-abf1072e09eb",
+      "CPU control"
     ]
   ],
   "text_variables": {}
