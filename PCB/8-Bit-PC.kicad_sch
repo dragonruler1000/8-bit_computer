@@ -567,6 +567,90 @@
 		)
 	)
 	(sheet
+		(at 29.21 36.83)
+		(size 22.86 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce70f6b7-a244-4015-92a7-c586e7888688")
+		(property "Sheetname" "Output"
+			(at 29.21 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "output.kicad_sch"
+			(at 29.21 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "8-Bit-PC"
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 69.85 58.42)
+		(size 16.51 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d073e50d-b064-481f-8def-abf1072e09eb")
+		(property "Sheetname" "CPU control"
+			(at 69.85 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "control.kicad_sch"
+			(at 69.85 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "8-Bit-PC"
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 130.81 91.44)
 		(size 24.13 41.91)
 		(exclude_from_sim no)
