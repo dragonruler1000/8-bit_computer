@@ -50,10 +50,17 @@ For this one the hardest part was just making it look nice witch didn't take to 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--e1c7f8e157e568a6c55bc22d35b344b7e8bc2961/image.png)
   
 
-## 10/26/2025 - Set up the output module  
+## 10/26/2025 9 AM - Set up the output module  
 
 I got the sheet for the output module set up witch besides needing to find a replacement for the 28c16 EEPROM chip. that was its own adventure but digikey was helpful for finding one. i didn't find a full drop in replacement though i have now figured out the naming scheme for EEPROM families.
 Over all it was fun to set up. though i do hope that i am using the same symbols becasue the symbols i am using are diffrent pin names then the same pins that the guide i am using has.
 ![Screenshot_20251026_094838](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTcyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--ae14a156a6b09cfb8b7e9824d63d31abab7683c3/Screenshot_20251026_094838.png)
+  
+
+## 10/26/2025 2 PM - Set up the cpu control module  
+
+I got the schematic for the control module set up. it wasn't very hard though i did need to wire one section of it twice because i did it wrong the first time. though i did take a little bit for me to get all of the sheet pins set up because there are 16 pins that are all different so i couldn't just copy and paste the parts that where the same.
+
+![Screenshot_20251026_141857](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--2be6deb95108e0b35235c309998a77805527b797/Screenshot_20251026_141857.png)
   
 
