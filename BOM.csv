@@ -1,0 +1,62 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,MANUFACTURER,#
+"C1,C2,C3,C4,C5,C6",6,0.01 µF,,,,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~,,1
+C7,1,1 µF,,,,Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm,,,2
+"C8,C9,C10,C11,C12,C13,C15,C18,C19,C20,C21,C?",12,0.1 µF,,,,,~,,3
+"C14,C16,C17",3,0.01 µF,,,,,~,,4
+D1,1,BLUE,,,,LED_THT:LED_D3.0mm,~,,5
+"D2,D3,D4,D5,D6,D7,D8,D9",8,RED,,,,LED_THT:LED_D3.0mm,~,,6
+"D10,D20,D21,D22,D23,D26,D27,D28,D29,D30,D31,D32,D33,D37",14,LED,,,,,~,,7
+"D11,D12,D13,D14,D15,D16,D17,D18,D19",9,LED,,,,LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm,~,,8
+"D24,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69",12,RED,,,,,~,,9
+"D25,D34,D35,D36,D54,D55,D56,D57,D58",9,GREEN,,,,,~,,10
+"D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53",16,BLUE,,,,,~,,11
+"R1,R2,R3",3,1K,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,~,,12
+"R4,R5,R6",3,R,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,~,,13
+R7,1,220,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,~,,14
+"R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R33,R34,R35,R36,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59,R60,R61,R62,R63,R65,R66,R67,R68,R69,R70,R71,R72",58,220,,,,,~,,15
+"R18,R19,R32",3,1K,,,,,~,,16
+"R37,R64",2,1k,,,,,~,,17
+R38,1,100k,,,,,~,,18
+"R39,R73,R74,R75,R76,R77,R78,R79,R80",9,10k,,,,,~,,19
+RV1,1,1M,,,,Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,~,,20
+"SW1,SW6,SW8",3,SW_Push,,,,,~,,21
+"SW2,SW4,SW7",3,SW_SPDT,,,,,~,,22
+SW3,1,SW_DIP_x04,,,,,~,,23
+SW5,1,SW_DIP_x08,,,,,~,,24
+"U1,U2,U3,U31",4,LM555xM,,,,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.ti.com/lit/ds/symlink/lm555.pdf,,25
+"U4,U10",2,74LS08,,,,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS08,,26
+U5,1,74LS04,,,,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS04,,27
+U6,1,74LS32,,,,,http://www.ti.com/lit/gpn/sn74LS32,,28
+"U7,U17,U25,U29,U?",5,74LS245,,,,,http://www.ti.com/lit/gpn/sn74LS245,,29
+"U8,U9,U19,U?,U?",5,74LS173,,,,,http://www.ti.com/lit/gpn/sn74LS173,,30
+U11,1,74LS02,,,,,http://www.ti.com/lit/gpn/sn74ls02,,31
+U12,1,74LS173,,,,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/gpn/sn74LS173,,32
+"U13,U14",2,74LS283,,,,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/gpn/sn74LS283,,33
+"U15,U16",2,74LS86,,,,,74xx/74ls86.pdf,,34
+"U18,U20,U22,U24",4,74LS157,,,,,http://www.ti.com/lit/gpn/sn74LS157,,35
+"U21,U23",2,74189,,,,,https://eater.net/datasheets/74189.pdf,,36
+"U26,U45",2,74LS00,,,,,http://www.ti.com/lit/gpn/sn74ls00,,37
+"U27,U28,U46,U47",4,74LS04,,,,,http://www.ti.com/lit/gpn/sn74LS04,,38
+"U30,U41",2,74LS161,,,,,http://www.ti.com/lit/gpn/sn74LS161,,39
+U32,1,74LS76,,,,,http://www.ti.com/lit/gpn/sn74LS76,,40
+U33,1,74LS139,,,,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/ds/symlink/sn74ls139a.pdf,,41
+"U34,U35,U36,U37",4,D148K,,,,Display_7Segment:D1X8K,https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf,,42
+U38,1,74LS273,,,,,http://www.ti.com/lit/gpn/sn74LS273,,43
+U39,1,74LS08,,,,,http://www.ti.com/lit/gpn/sn74LS08,,44
+"U40,U43,U44",3,AT28C64B-15PU,,,,AT28C64B_15PU:DIP1555W45P254L3733H482Q28,https://ww1.microchip.com/downloads/en/DeviceDoc/doc0270.pdf,Microchip Technology,45
+U42,1,74LS138,,,,,http://www.ti.com/lit/gpn/sn74LS138,,46
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+![Screenshot_20251026_165409](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTgyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--4bd96d94e1b8c2c169f6b67b09845199ded7aaa9/Screenshot_20251026_165409.png),,,,,,,,,
