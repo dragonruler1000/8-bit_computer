@@ -69,3 +69,8 @@ I got the schematic for the control module set up. it wasn't very hard though i 
 I originally connected everything using busses and wires until i got to the end of my first wiring run at witch point i was using global labels to connect stuff. After i finished everything i realized that i may have messed stuff up because the way i set up the busses might not have worked at witch point i switched to using global labels for connecting over long distances.
 ![Screenshot_20251026_165409](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTgyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--4bd96d94e1b8c2c169f6b67b09845199ded7aaa9/Screenshot_20251026_165409.png)  
 
+## 10/27/2025 - Cleaned up schematic and added power input  
+
+I did the (rough) calculations for power and figured out that a USB-C port with amperage set to 500 mA will be enough for the power. i also cleaned up the schematic and got the annotations and started getting footprints ready for the PCB design.![Screenshot_20251027_205614](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--23b4cb1bba18f4c2535f5c72a6ab516c2e4cc7fd/Screenshot_20251027_205614.png)
+  
+
