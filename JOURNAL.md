@@ -74,3 +74,9 @@ I originally connected everything using busses and wires until i got to the end 
 I did the (rough) calculations for power and figured out that a USB-C port with amperage set to 500 mA will be enough for the power. i also cleaned up the schematic and got the annotations and started getting footprints ready for the PCB design.![Screenshot_20251027_205614](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--23b4cb1bba18f4c2535f5c72a6ab516c2e4cc7fd/Screenshot_20251027_205614.png)
   
 
+## 10/29/2025 - Organised and routed the PCB  
+
+I layed out the PCB and got freerouting started on routing the traces so i don't have to manually run nearly 1000 traces. though i have forgot to add the silkscreen to label what buttons and switches are for so i will need to run it again after i do that. though having the buttons and switch uses on a document that goes with the project could also work.
+![Screenshot_20251029_214637](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--188d15f6137761201e3e793af510f96dc11136d8/Screenshot_20251029_214637.png)
+  
+
