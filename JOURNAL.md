@@ -80,3 +80,8 @@ I layed out the PCB and got freerouting started on routing the traces so i don't
 ![Screenshot_20251029_214637](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--188d15f6137761201e3e793af510f96dc11136d8/Screenshot_20251029_214637.png)
   
 
+## 10/30/2025 - remaking the pcb layout  
+
+started reworking the pcb layout so i can run the traces manualy without spending a few weeks on it. still quite early but sense i have it set up in as modules it shoun't take me to long once i get each of the modules layed out so they connect together at least semi organised if not optimized.![Screenshot_20251030_215059](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ebf045ece5c1c88076987347b2fc98b2b53547eb/Screenshot_20251030_215059.png)
+  
+
