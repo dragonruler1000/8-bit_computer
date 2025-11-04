@@ -7736,7 +7736,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:N14"
 			(at 283.21 113.03 0)
 			(effects
 				(font
@@ -7908,7 +7908,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:N14"
 			(at 373.38 111.76 0)
 			(effects
 				(font
@@ -8072,7 +8072,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "GREEN"
 			(at 67.6275 119.38 0)
 			(effects
 				(font
@@ -8080,7 +8080,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 66.04 115.57 0)
 			(effects
 				(font
@@ -8186,7 +8186,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4e8b6a02-c941-4a3b-a08b-475ccf263894")
+			(uuid "4e8b6a02-c941-4a3b-a08b-475ccf263895")
 		)
 		(instances
 			(project ""
@@ -8252,7 +8252,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4e8b6a02-c941-4a3b-a08b-475ccf263894")
+			(uuid "4e8b6a02-c941-4a3b-a08b-475ccf263896")
 		)
 		(instances
 			(project ""
@@ -8356,7 +8356,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:N14"
 			(at 139.7 210.82 0)
 			(effects
 				(font
@@ -8461,7 +8461,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:N14"
 			(at 139.7 184.15 0)
 			(effects
 				(font
@@ -8701,7 +8701,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:N14"
 			(at 283.21 97.79 0)
 			(effects
 				(font
@@ -8872,7 +8872,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:N14"
 			(at 283.21 140.97 0)
 			(effects
 				(font
@@ -9082,7 +9082,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:N14"
 			(at 373.38 77.47 0)
 			(effects
 				(font
@@ -9177,7 +9177,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED"
 			(at 115.316 141.986 0)
 			(effects
 				(font
@@ -9185,7 +9185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 116.84 144.78 0)
 			(effects
 				(font
@@ -9500,7 +9500,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "GREEN"
 			(at 67.6275 109.22 0)
 			(effects
 				(font
@@ -9508,7 +9508,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 66.04 105.41 0)
 			(effects
 				(font
@@ -9615,7 +9615,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "512e9dd4-2a3b-4acc-802f-a53af98301fd")
+			(uuid "512e9dd4-2a3b-4acc-802f-a53af98301fe")
 		)
 		(instances
 			(project ""
@@ -9756,7 +9756,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:N14"
 			(at 283.21 66.04 0)
 			(effects
 				(font
@@ -9961,7 +9961,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED"
 			(at 115.062 151.13 0)
 			(effects
 				(font
@@ -9969,7 +9969,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 116.84 153.67 0)
 			(effects
 				(font
@@ -10037,7 +10037,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED"
 			(at 115.062 97.79 0)
 			(effects
 				(font
@@ -10045,7 +10045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 116.84 100.33 0)
 			(effects
 				(font
@@ -10181,7 +10181,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED"
 			(at 115.062 124.714 0)
 			(effects
 				(font
@@ -10189,7 +10189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 116.84 127 0)
 			(effects
 				(font
@@ -10465,7 +10465,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "512e9dd4-2a3b-4acc-802f-a53af98301fd")
+			(uuid "512e9dd4-2a3b-4acc-802f-a53af98301ff")
 		)
 		(instances
 			(project ""
@@ -10773,7 +10773,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:DIP254P762X508-20"
 			(at 181.61 82.55 0)
 			(effects
 				(font
@@ -10886,7 +10886,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED"
 			(at 115.316 133.35 0)
 			(effects
 				(font
@@ -10894,7 +10894,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 116.84 135.89 0)
 			(effects
 				(font
@@ -10973,7 +10973,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:N14"
 			(at 373.38 142.24 0)
 			(effects
 				(font
@@ -11310,7 +11310,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4e8b6a02-c941-4a3b-a08b-475ccf263894")
+			(uuid "4e8b6a02-c941-4a3b-a08b-475ccf263897")
 		)
 		(instances
 			(project ""
@@ -11348,7 +11348,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:N14"
 			(at 139.7 170.18 0)
 			(effects
 				(font
@@ -11443,7 +11443,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED"
 			(at 115.316 160.274 0)
 			(effects
 				(font
@@ -11451,7 +11451,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 116.84 162.56 0)
 			(effects
 				(font
@@ -11528,7 +11528,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:N14"
 			(at 283.21 82.55 0)
 			(effects
 				(font
@@ -11767,7 +11767,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "512e9dd4-2a3b-4acc-802f-a53af98301fd")
+			(uuid "512e9dd4-2a3b-4acc-802f-a53af9830200")
 		)
 		(instances
 			(project ""
@@ -11804,7 +11804,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:N14"
 			(at 283.21 154.94 0)
 			(effects
 				(font
@@ -12079,7 +12079,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED"
 			(at 115.316 115.57 0)
 			(effects
 				(font
@@ -12087,7 +12087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 116.84 118.11 0)
 			(effects
 				(font
@@ -12155,7 +12155,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED"
 			(at 115.062 106.68 0)
 			(effects
 				(font
@@ -12163,7 +12163,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 116.84 109.22 0)
 			(effects
 				(font
@@ -12344,7 +12344,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:N14"
 			(at 283.21 168.91 0)
 			(effects
 				(font
@@ -12448,7 +12448,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:N14"
 			(at 283.21 127 0)
 			(effects
 				(font
@@ -12619,7 +12619,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:N14"
 			(at 139.7 196.85 0)
 			(effects
 				(font

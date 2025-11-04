@@ -7194,7 +7194,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 121.92 41.91 0)
 			(effects
 				(font
@@ -7532,7 +7532,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "46af9059-ca9d-4e5e-b9bf-086308a0b90f")
+			(uuid "46af9059-ca9d-4e5e-b9bf-086308a0b910")
 		)
 		(instances
 			(project ""
@@ -8020,7 +8020,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "46af9059-ca9d-4e5e-b9bf-086308a0b90f")
+			(uuid "46af9059-ca9d-4e5e-b9bf-086308a0b911")
 		)
 		(instances
 			(project ""
@@ -8057,7 +8057,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:N14"
 			(at 36.83 125.73 0)
 			(effects
 				(font
@@ -8163,7 +8163,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 91.44 39.37 0)
 			(effects
 				(font
@@ -8302,7 +8302,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "68a1ea00-b676-405c-8329-a674cb64274a")
+			(uuid "68a1ea00-b676-405c-8329-a674cb64274b")
 		)
 		(instances
 			(project ""
@@ -8721,7 +8721,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 63.5 191.77 0)
 			(effects
 				(font
@@ -8899,7 +8899,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:DIP254P762X508-20"
 			(at 67.31 105.41 0)
 			(effects
 				(font
@@ -9316,7 +9316,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "68a1ea00-b676-405c-8329-a674cb64274a")
+			(uuid "68a1ea00-b676-405c-8329-a674cb64274c")
 		)
 		(instances
 			(project ""
@@ -9668,7 +9668,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:N14"
 			(at 163.83 177.8 0)
 			(effects
 				(font

@@ -3665,7 +3665,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:SN74LS173AN"
 			(at 190.5 64.77 0)
 			(effects
 				(font
@@ -3981,7 +3981,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:DIP254P762X508-20"
 			(at 67.31 58.42 0)
 			(effects
 				(font
@@ -4888,7 +4888,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:SN74LS173AN"
 			(at 132.08 64.77 0)
 			(effects
 				(font

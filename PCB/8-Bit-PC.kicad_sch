@@ -5041,7 +5041,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 85.09 161.29 0)
 			(effects
 				(font
@@ -5120,7 +5120,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 81.28 161.29 0)
 			(effects
 				(font
@@ -5157,10 +5157,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "40519b73-d30d-49ca-ab7d-7711a479f321")
+			(uuid "40519b73-d30d-49ca-ab7d-7711a479f322")
 		)
 		(pin "1"
-			(uuid "80f79de4-05dc-46b8-8000-ed4cfb14cfff")
+			(uuid "80f79de4-05dc-46b8-8000-ed4cfb14d000")
 		)
 		(instances
 			(project ""
@@ -5360,10 +5360,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c4657c32-847f-47af-9292-ee08fec367c6")
+			(uuid "c4657c32-847f-47af-9292-ee08fec367c7")
 		)
 		(pin "2"
-			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5c8")
+			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5c9")
 		)
 		(instances
 			(project ""
@@ -5430,10 +5430,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c4657c32-847f-47af-9292-ee08fec367c6")
+			(uuid "c4657c32-847f-47af-9292-ee08fec367c8")
 		)
 		(pin "2"
-			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5c8")
+			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5ca")
 		)
 		(instances
 			(project ""
@@ -5570,10 +5570,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "36553bf1-27fa-43ff-ae09-2db2f2cc35dd")
+			(uuid "36553bf1-27fa-43ff-ae09-2db2f2cc35de")
 		)
 		(pin "2"
-			(uuid "7bb0246a-093f-4e07-b5b4-412b708d04d3")
+			(uuid "7bb0246a-093f-4e07-b5b4-412b708d04d4")
 		)
 		(instances
 			(project ""
@@ -5725,10 +5725,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "36553bf1-27fa-43ff-ae09-2db2f2cc35dd")
+			(uuid "36553bf1-27fa-43ff-ae09-2db2f2cc35df")
 		)
 		(pin "2"
-			(uuid "7bb0246a-093f-4e07-b5b4-412b708d04d3")
+			(uuid "7bb0246a-093f-4e07-b5b4-412b708d04d5")
 		)
 		(instances
 			(project ""
@@ -5795,7 +5795,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "a486f3a9-adb4-4897-b0f8-bcb37d898635")
+			(uuid "a486f3a9-adb4-4897-b0f8-bcb37d898636")
 		)
 		(instances
 			(project ""
@@ -5862,10 +5862,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "36553bf1-27fa-43ff-ae09-2db2f2cc35dd")
+			(uuid "36553bf1-27fa-43ff-ae09-2db2f2cc35e0")
 		)
 		(pin "2"
-			(uuid "7bb0246a-093f-4e07-b5b4-412b708d04d3")
+			(uuid "7bb0246a-093f-4e07-b5b4-412b708d04d6")
 		)
 		(instances
 			(project ""
@@ -5904,7 +5904,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 62.23 161.29 0)
 			(effects
 				(font
@@ -5941,10 +5941,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "40519b73-d30d-49ca-ab7d-7711a479f321")
+			(uuid "40519b73-d30d-49ca-ab7d-7711a479f323")
 		)
 		(pin "1"
-			(uuid "80f79de4-05dc-46b8-8000-ed4cfb14cfff")
+			(uuid "80f79de4-05dc-46b8-8000-ed4cfb14d001")
 		)
 		(instances
 			(project ""
@@ -6011,10 +6011,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c4657c32-847f-47af-9292-ee08fec367c6")
+			(uuid "c4657c32-847f-47af-9292-ee08fec367c9")
 		)
 		(pin "2"
-			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5c8")
+			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5cb")
 		)
 		(instances
 			(project ""
@@ -6081,10 +6081,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c4657c32-847f-47af-9292-ee08fec367c6")
+			(uuid "c4657c32-847f-47af-9292-ee08fec367ca")
 		)
 		(pin "2"
-			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5c8")
+			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5cc")
 		)
 		(instances
 			(project ""
@@ -6151,10 +6151,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c4657c32-847f-47af-9292-ee08fec367c6")
+			(uuid "c4657c32-847f-47af-9292-ee08fec367cb")
 		)
 		(pin "2"
-			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5c8")
+			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5cd")
 		)
 		(instances
 			(project ""
@@ -6221,10 +6221,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c4657c32-847f-47af-9292-ee08fec367c6")
+			(uuid "c4657c32-847f-47af-9292-ee08fec367cc")
 		)
 		(pin "2"
-			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5c8")
+			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5ce")
 		)
 		(instances
 			(project ""
@@ -6291,10 +6291,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "36553bf1-27fa-43ff-ae09-2db2f2cc35dd")
+			(uuid "36553bf1-27fa-43ff-ae09-2db2f2cc35e1")
 		)
 		(pin "2"
-			(uuid "7bb0246a-093f-4e07-b5b4-412b708d04d3")
+			(uuid "7bb0246a-093f-4e07-b5b4-412b708d04d7")
 		)
 		(instances
 			(project ""
@@ -6333,7 +6333,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 73.66 161.29 0)
 			(effects
 				(font
@@ -6370,10 +6370,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "40519b73-d30d-49ca-ab7d-7711a479f321")
+			(uuid "40519b73-d30d-49ca-ab7d-7711a479f324")
 		)
 		(pin "1"
-			(uuid "80f79de4-05dc-46b8-8000-ed4cfb14cfff")
+			(uuid "80f79de4-05dc-46b8-8000-ed4cfb14d002")
 		)
 		(instances
 			(project ""
@@ -6440,10 +6440,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "36553bf1-27fa-43ff-ae09-2db2f2cc35dd")
+			(uuid "36553bf1-27fa-43ff-ae09-2db2f2cc35e2")
 		)
 		(pin "2"
-			(uuid "7bb0246a-093f-4e07-b5b4-412b708d04d3")
+			(uuid "7bb0246a-093f-4e07-b5b4-412b708d04d8")
 		)
 		(instances
 			(project ""
@@ -6482,7 +6482,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 58.42 161.29 0)
 			(effects
 				(font
@@ -6519,10 +6519,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "40519b73-d30d-49ca-ab7d-7711a479f321")
+			(uuid "40519b73-d30d-49ca-ab7d-7711a479f325")
 		)
 		(pin "1"
-			(uuid "80f79de4-05dc-46b8-8000-ed4cfb14cfff")
+			(uuid "80f79de4-05dc-46b8-8000-ed4cfb14d003")
 		)
 		(instances
 			(project ""
@@ -6726,10 +6726,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "36553bf1-27fa-43ff-ae09-2db2f2cc35dd")
+			(uuid "36553bf1-27fa-43ff-ae09-2db2f2cc35e3")
 		)
 		(pin "2"
-			(uuid "7bb0246a-093f-4e07-b5b4-412b708d04d3")
+			(uuid "7bb0246a-093f-4e07-b5b4-412b708d04d9")
 		)
 		(instances
 			(project ""
@@ -6768,7 +6768,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 77.47 161.29 0)
 			(effects
 				(font
@@ -6805,10 +6805,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "40519b73-d30d-49ca-ab7d-7711a479f321")
+			(uuid "40519b73-d30d-49ca-ab7d-7711a479f326")
 		)
 		(pin "1"
-			(uuid "80f79de4-05dc-46b8-8000-ed4cfb14cfff")
+			(uuid "80f79de4-05dc-46b8-8000-ed4cfb14d004")
 		)
 		(instances
 			(project ""
@@ -6847,7 +6847,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 66.04 161.29 0)
 			(effects
 				(font
@@ -6884,10 +6884,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "40519b73-d30d-49ca-ab7d-7711a479f321")
+			(uuid "40519b73-d30d-49ca-ab7d-7711a479f327")
 		)
 		(pin "1"
-			(uuid "80f79de4-05dc-46b8-8000-ed4cfb14cfff")
+			(uuid "80f79de4-05dc-46b8-8000-ed4cfb14d005")
 		)
 		(instances
 			(project ""
@@ -6954,10 +6954,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c4657c32-847f-47af-9292-ee08fec367c6")
+			(uuid "c4657c32-847f-47af-9292-ee08fec367cd")
 		)
 		(pin "2"
-			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5c8")
+			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5cf")
 		)
 		(instances
 			(project ""
@@ -7090,10 +7090,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c4657c32-847f-47af-9292-ee08fec367c6")
+			(uuid "c4657c32-847f-47af-9292-ee08fec367ce")
 		)
 		(pin "2"
-			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5c8")
+			(uuid "a329db34-49bb-49e6-ad1c-80f9f8dee5d0")
 		)
 		(instances
 			(project ""
@@ -7132,7 +7132,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 69.85 161.29 0)
 			(effects
 				(font
@@ -7169,10 +7169,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "40519b73-d30d-49ca-ab7d-7711a479f321")
+			(uuid "40519b73-d30d-49ca-ab7d-7711a479f328")
 		)
 		(pin "1"
-			(uuid "80f79de4-05dc-46b8-8000-ed4cfb14cfff")
+			(uuid "80f79de4-05dc-46b8-8000-ed4cfb14d006")
 		)
 		(instances
 			(project ""
@@ -7306,10 +7306,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e89ccda2-4484-4333-95df-0e6211874350")
+			(uuid "e89ccda2-4484-4333-95df-0e6211874351")
 		)
 		(pin "1"
-			(uuid "e13a63e3-1577-457d-a581-c571dae58833")
+			(uuid "e13a63e3-1577-457d-a581-c571dae58834")
 		)
 		(instances
 			(project ""

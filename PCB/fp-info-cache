@@ -1,4 +1,4 @@
-26732216315316222
+26739263043369697
 AT28C64B_15PU
 DIP1555W45P254L3733H482Q28
 
@@ -59359,6 +59359,34 @@ ceramic
 0
 3
 3
+Custom
+N14
+
+SN74LS02N 
+0
+14
+14
+Custom
+N16
+
+SN74LS157N 
+0
+16
+16
+Custom
+SN74LS173AN
+
+SN74LS173AN 
+0
+16
+16
+Custom
+SN74LS245N
+
+
+0
+20
+20
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator

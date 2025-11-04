@@ -3901,7 +3901,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "YELLOW"
 			(at 46.99 42.2274 90)
 			(effects
 				(font
@@ -3910,7 +3910,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 43.18 39.37 0)
 			(effects
 				(font
@@ -3987,7 +3987,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:SN74LS173AN"
 			(at 134.62 52.07 0)
 			(effects
 				(font
@@ -4163,7 +4163,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:N16"
 			(at 67.31 50.8 0)
 			(effects
 				(font
@@ -4473,7 +4473,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "YELLOW"
 			(at 38.1 42.2274 90)
 			(effects
 				(font
@@ -4482,7 +4482,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 34.29 39.37 0)
 			(effects
 				(font
@@ -4552,7 +4552,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "YELLOW"
 			(at 29.21 42.2274 90)
 			(effects
 				(font
@@ -4561,7 +4561,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 25.4 39.37 0)
 			(effects
 				(font
@@ -4638,7 +4638,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 46.99 125.73 0)
 			(effects
 				(font
@@ -4781,7 +4781,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 46.99 118.11 0)
 			(effects
 				(font
@@ -4920,7 +4920,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "YELLOW"
 			(at 20.32 42.2274 90)
 			(effects
 				(font
@@ -4929,7 +4929,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 16.51 39.37 0)
 			(effects
 				(font
