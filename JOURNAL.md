@@ -85,9 +85,9 @@ I layed out the PCB and got freerouting started on routing the traces so i don't
 started reworking the pcb layout so i can run the traces manualy without spending a few weeks on it. still quite early but sense i have it set up in as modules it shoun't take me to long once i get each of the modules layed out so they connect together at least semi organised if not optimized.![Screenshot_20251030_215059](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ebf045ece5c1c88076987347b2fc98b2b53547eb/Screenshot_20251030_215059.png)
   
 
-## 11/3/2025 - cleaned up to pcb and started fixing some of the DRC errors  
+## 11/3/2025 - cleaned up to pcb and started fixing some of the ERC errors  
 
-Didn't really get to much done but i now have the PCB mostly layed out and just need to get the traces routed after fixing the DRC errors i have. I have figured out how to get only certain nets to show at a time.
+Didn't really get to much done but i now have the PCB mostly layed out and just need to get the traces routed after fixing the ERC errors i have. I have figured out how to get only certain nets to show at a time.
 ![Screenshot_20251103_212619](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--2887388454adc659ec7508ebe83aa6af96c272d1/Screenshot_20251103_212619.png)
   
 
