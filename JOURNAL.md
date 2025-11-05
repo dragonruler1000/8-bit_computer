@@ -91,3 +91,9 @@ Didn't really get to much done but i now have the PCB mostly layed out and just 
 ![Screenshot_20251103_212619](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--2887388454adc659ec7508ebe83aa6af96c272d1/Screenshot_20251103_212619.png)
   
 
+## 11/4/2025 - Fixed all but one of the ERC errors.  
+
+I fixed most of the ERC errors witch i probably should have done before i spent a while on the pcb layout but hindsight is 2020. Though it does seem that most of the errors i had where from unconnected pins so they weren't hard to fix.
+attached is a screen shot of the last ERC error i have remaining.![Screenshot_20251104_200049](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--7f557a745c9d07c693dc7781734143d2308d65d8/Screenshot_20251104_200049.png)
+  
+
