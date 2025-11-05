@@ -4137,12 +4137,24 @@
 		(uuid "ff7d115c-aff6-4a18-8d02-1f5417d541fb")
 	)
 	(no_connect
+		(at 325.12 125.73)
+		(uuid "028cb313-1ea5-48a5-979a-6eda6f710210")
+	)
+	(no_connect
+		(at 309.88 125.73)
+		(uuid "0bfa62e2-6ee0-49df-8966-cab5a3ca4327")
+	)
+	(no_connect
 		(at 64.77 121.92)
 		(uuid "184fc8dc-86b3-4d70-ad8c-713c8d768c4c")
 	)
 	(no_connect
 		(at 229.87 198.12)
 		(uuid "27391d8f-1b71-46d3-84f9-7e991b3abb5b")
+	)
+	(no_connect
+		(at 325.12 134.62)
+		(uuid "34bfca8d-7b0d-4be6-9f96-64cfd45a529d")
 	)
 	(no_connect
 		(at 90.17 69.85)
@@ -4161,8 +4173,20 @@
 		(uuid "663161a5-5323-4785-a0db-d82eb414c4f1")
 	)
 	(no_connect
+		(at 309.88 107.95)
+		(uuid "7241c0cb-8e17-4e20-bb30-b59a1ac8947c")
+	)
+	(no_connect
+		(at 309.88 116.84)
+		(uuid "85784e5b-8f6a-4ea2-9e1e-e3735b122080")
+	)
+	(no_connect
 		(at 90.17 64.77)
 		(uuid "8817c026-4711-4d12-9579-972a800fb4fc")
+	)
+	(no_connect
+		(at 309.88 134.62)
+		(uuid "888aa66a-eb33-474a-80b2-8f3b7a950ee1")
 	)
 	(no_connect
 		(at 64.77 62.23)
@@ -4175,6 +4199,14 @@
 	(no_connect
 		(at 214.63 198.12)
 		(uuid "dd110b39-71e0-472b-9fc5-6df0fcf446cc")
+	)
+	(no_connect
+		(at 325.12 107.95)
+		(uuid "f40b4cf8-7228-4e10-851e-bd76d6575827")
+	)
+	(no_connect
+		(at 325.12 116.84)
+		(uuid "f56928ca-ccb0-4490-89bd-6634da0f2c3b")
 	)
 	(wire
 		(pts
@@ -8087,6 +8119,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VCC")
+		(at 77.47 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "14d91745-76b9-4fdc-8943-90ece4b4b2bf")
+		(property "Reference" "#PWR0161"
+			(at 77.47 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 77.47 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 77.47 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 77.47 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "44a7ff09-d2d9-4ec9-9a77-d93fcdb9b9af")
+		)
+		(instances
+			(project ""
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/d073e50d-b064-481f-8def-abf1072e09eb"
+					(reference "#PWR0161")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 167.64 129.54 0)
 		(unit 1)
@@ -10098,6 +10196,526 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS04")
+		(at 317.5 116.84 0)
+		(unit 4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "51629e3f-f38e-4a7a-af09-97eddd413b4a")
+		(property "Reference" "U47"
+			(at 317.5 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "74LS04"
+			(at 317.5 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Custom:N14"
+			(at 317.5 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
+			(at 317.5 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Hex Inverter"
+			(at 317.5 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "0519074e-fac1-43b8-9f8b-d5b071d6fa41")
+		)
+		(pin "2"
+			(uuid "0dd10949-bc5c-4b7f-b86d-f8ae5d9f309c")
+		)
+		(pin "1"
+			(uuid "2a5839ec-e029-42f6-a198-9b04435c9fda")
+		)
+		(pin "4"
+			(uuid "2c19e448-00fc-4747-92b0-3f4714f454c4")
+		)
+		(pin "9"
+			(uuid "47254b80-8181-4c38-9fb1-814166ac11af")
+		)
+		(pin "6"
+			(uuid "b3cf6147-98d1-4b13-b1a0-5ce38cd71757")
+		)
+		(pin "5"
+			(uuid "1635be95-579d-443a-a157-cd685e6416a3")
+		)
+		(pin "14"
+			(uuid "8f9b6a89-ea40-4b98-a34c-7d41b3c7ac4e")
+		)
+		(pin "12"
+			(uuid "bea367b2-e5c9-4cda-8a8d-0c2fff273feb")
+		)
+		(pin "8"
+			(uuid "0b7e602b-01c3-473c-905b-5b5081152863")
+		)
+		(pin "11"
+			(uuid "d669664c-33b2-48a2-8df4-03d333cc01f2")
+		)
+		(pin "13"
+			(uuid "c1a26d1e-0624-48ae-bbf3-13b1d1b3bbc0")
+		)
+		(pin "10"
+			(uuid "8a0ed42e-77eb-4308-b481-db3f9ebec8f4")
+		)
+		(pin "7"
+			(uuid "0dfa2f47-3b9a-4a74-aeff-9e3ca39e1822")
+		)
+		(instances
+			(project ""
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/d073e50d-b064-481f-8def-abf1072e09eb"
+					(reference "U47")
+					(unit 4)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "74xx:74LS04")
+		(at 317.5 107.95 0)
+		(unit 3)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "51629e3f-f38e-4a7a-af09-97eddd413b4a")
+		(property "Reference" "U47"
+			(at 317.5 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "74LS04"
+			(at 317.5 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Custom:N14"
+			(at 317.5 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
+			(at 317.5 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Hex Inverter"
+			(at 317.5 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "0519074e-fac1-43b8-9f8b-d5b071d6fa41")
+		)
+		(pin "2"
+			(uuid "0dd10949-bc5c-4b7f-b86d-f8ae5d9f309c")
+		)
+		(pin "1"
+			(uuid "2a5839ec-e029-42f6-a198-9b04435c9fda")
+		)
+		(pin "4"
+			(uuid "2c19e448-00fc-4747-92b0-3f4714f454c4")
+		)
+		(pin "9"
+			(uuid "47254b80-8181-4c38-9fb1-814166ac11af")
+		)
+		(pin "6"
+			(uuid "b3cf6147-98d1-4b13-b1a0-5ce38cd71757")
+		)
+		(pin "5"
+			(uuid "1635be95-579d-443a-a157-cd685e6416a3")
+		)
+		(pin "14"
+			(uuid "8f9b6a89-ea40-4b98-a34c-7d41b3c7ac4e")
+		)
+		(pin "12"
+			(uuid "bea367b2-e5c9-4cda-8a8d-0c2fff273feb")
+		)
+		(pin "8"
+			(uuid "0b7e602b-01c3-473c-905b-5b5081152863")
+		)
+		(pin "11"
+			(uuid "d669664c-33b2-48a2-8df4-03d333cc01f2")
+		)
+		(pin "13"
+			(uuid "c1a26d1e-0624-48ae-bbf3-13b1d1b3bbc0")
+		)
+		(pin "10"
+			(uuid "8a0ed42e-77eb-4308-b481-db3f9ebec8f4")
+		)
+		(pin "7"
+			(uuid "0dfa2f47-3b9a-4a74-aeff-9e3ca39e1822")
+		)
+		(instances
+			(project ""
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/d073e50d-b064-481f-8def-abf1072e09eb"
+					(reference "U47")
+					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "74xx:74LS04")
+		(at 317.5 125.73 0)
+		(unit 5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "51629e3f-f38e-4a7a-af09-97eddd413b4a")
+		(property "Reference" "U47"
+			(at 317.5 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "74LS04"
+			(at 317.5 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Custom:N14"
+			(at 317.5 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
+			(at 317.5 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Hex Inverter"
+			(at 317.5 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "0519074e-fac1-43b8-9f8b-d5b071d6fa41")
+		)
+		(pin "2"
+			(uuid "0dd10949-bc5c-4b7f-b86d-f8ae5d9f309c")
+		)
+		(pin "1"
+			(uuid "2a5839ec-e029-42f6-a198-9b04435c9fda")
+		)
+		(pin "4"
+			(uuid "2c19e448-00fc-4747-92b0-3f4714f454c4")
+		)
+		(pin "9"
+			(uuid "47254b80-8181-4c38-9fb1-814166ac11af")
+		)
+		(pin "6"
+			(uuid "b3cf6147-98d1-4b13-b1a0-5ce38cd71757")
+		)
+		(pin "5"
+			(uuid "1635be95-579d-443a-a157-cd685e6416a3")
+		)
+		(pin "14"
+			(uuid "8f9b6a89-ea40-4b98-a34c-7d41b3c7ac4e")
+		)
+		(pin "12"
+			(uuid "bea367b2-e5c9-4cda-8a8d-0c2fff273feb")
+		)
+		(pin "8"
+			(uuid "0b7e602b-01c3-473c-905b-5b5081152863")
+		)
+		(pin "11"
+			(uuid "d669664c-33b2-48a2-8df4-03d333cc01f2")
+		)
+		(pin "13"
+			(uuid "c1a26d1e-0624-48ae-bbf3-13b1d1b3bbc0")
+		)
+		(pin "10"
+			(uuid "8a0ed42e-77eb-4308-b481-db3f9ebec8f4")
+		)
+		(pin "7"
+			(uuid "0dfa2f47-3b9a-4a74-aeff-9e3ca39e1822")
+		)
+		(instances
+			(project ""
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/d073e50d-b064-481f-8def-abf1072e09eb"
+					(reference "U47")
+					(unit 5)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "74xx:74LS04")
+		(at 317.5 134.62 0)
+		(unit 6)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "51629e3f-f38e-4a7a-af09-97eddd413b4a")
+		(property "Reference" "U47"
+			(at 317.5 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "74LS04"
+			(at 317.5 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Custom:N14"
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Hex Inverter"
+			(at 317.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "0519074e-fac1-43b8-9f8b-d5b071d6fa41")
+		)
+		(pin "2"
+			(uuid "0dd10949-bc5c-4b7f-b86d-f8ae5d9f309c")
+		)
+		(pin "1"
+			(uuid "2a5839ec-e029-42f6-a198-9b04435c9fda")
+		)
+		(pin "4"
+			(uuid "2c19e448-00fc-4747-92b0-3f4714f454c4")
+		)
+		(pin "9"
+			(uuid "47254b80-8181-4c38-9fb1-814166ac11af")
+		)
+		(pin "6"
+			(uuid "b3cf6147-98d1-4b13-b1a0-5ce38cd71757")
+		)
+		(pin "5"
+			(uuid "1635be95-579d-443a-a157-cd685e6416a3")
+		)
+		(pin "14"
+			(uuid "8f9b6a89-ea40-4b98-a34c-7d41b3c7ac4e")
+		)
+		(pin "12"
+			(uuid "bea367b2-e5c9-4cda-8a8d-0c2fff273feb")
+		)
+		(pin "8"
+			(uuid "0b7e602b-01c3-473c-905b-5b5081152863")
+		)
+		(pin "11"
+			(uuid "d669664c-33b2-48a2-8df4-03d333cc01f2")
+		)
+		(pin "13"
+			(uuid "c1a26d1e-0624-48ae-bbf3-13b1d1b3bbc0")
+		)
+		(pin "10"
+			(uuid "8a0ed42e-77eb-4308-b481-db3f9ebec8f4")
+		)
+		(pin "7"
+			(uuid "0dfa2f47-3b9a-4a74-aeff-9e3ca39e1822")
+		)
+		(instances
+			(project ""
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/d073e50d-b064-481f-8def-abf1072e09eb"
+					(reference "U47")
+					(unit 6)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "74xx:74LS04")
+		(at 317.5 147.32 90)
+		(unit 7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "51629e3f-f38e-4a7a-af09-97eddd413b4a")
+		(property "Reference" "U47"
+			(at 317.5 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "74LS04"
+			(at 317.5 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Custom:N14"
+			(at 317.5 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
+			(at 317.5 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Hex Inverter"
+			(at 317.5 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "0519074e-fac1-43b8-9f8b-d5b071d6fa41")
+		)
+		(pin "2"
+			(uuid "0dd10949-bc5c-4b7f-b86d-f8ae5d9f309c")
+		)
+		(pin "1"
+			(uuid "2a5839ec-e029-42f6-a198-9b04435c9fda")
+		)
+		(pin "4"
+			(uuid "2c19e448-00fc-4747-92b0-3f4714f454c4")
+		)
+		(pin "9"
+			(uuid "47254b80-8181-4c38-9fb1-814166ac11af")
+		)
+		(pin "6"
+			(uuid "b3cf6147-98d1-4b13-b1a0-5ce38cd71757")
+		)
+		(pin "5"
+			(uuid "1635be95-579d-443a-a157-cd685e6416a3")
+		)
+		(pin "14"
+			(uuid "8f9b6a89-ea40-4b98-a34c-7d41b3c7ac4e")
+		)
+		(pin "12"
+			(uuid "bea367b2-e5c9-4cda-8a8d-0c2fff273feb")
+		)
+		(pin "8"
+			(uuid "0b7e602b-01c3-473c-905b-5b5081152863")
+		)
+		(pin "11"
+			(uuid "d669664c-33b2-48a2-8df4-03d333cc01f2")
+		)
+		(pin "13"
+			(uuid "c1a26d1e-0624-48ae-bbf3-13b1d1b3bbc0")
+		)
+		(pin "10"
+			(uuid "8a0ed42e-77eb-4308-b481-db3f9ebec8f4")
+		)
+		(pin "7"
+			(uuid "0dfa2f47-3b9a-4a74-aeff-9e3ca39e1822")
+		)
+		(instances
+			(project ""
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/d073e50d-b064-481f-8def-abf1072e09eb"
+					(reference "U47")
+					(unit 7)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "74xx:74LS04")
 		(at 260.35 124.46 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -10766,6 +11384,72 @@
 			(project ""
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/d073e50d-b064-481f-8def-abf1072e09eb"
 					(reference "R55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 77.47 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "64e07656-738b-415c-97fb-51bef1782fc3")
+		(property "Reference" "#PWR0162"
+			(at 77.47 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 77.47 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 77.47 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 77.47 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8c09a6d1-c38d-4e82-94c1-cc7b5692b00f")
+		)
+		(instances
+			(project ""
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/d073e50d-b064-481f-8def-abf1072e09eb"
+					(reference "#PWR0162")
 					(unit 1)
 				)
 			)
@@ -11943,6 +12627,72 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
+		(at 77.47 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "90383d49-18bd-4e48-9321-168e737b6f2a")
+		(property "Reference" "#PWR0160"
+			(at 77.47 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 77.47 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 77.47 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 77.47 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "44a7ff09-d2d9-4ec9-9a77-d93fcdb9b9af")
+		)
+		(instances
+			(project ""
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/d073e50d-b064-481f-8def-abf1072e09eb"
+					(reference "#PWR0160")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
 		(at 31.75 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12160,6 +12910,73 @@
 			(project ""
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/d073e50d-b064-481f-8def-abf1072e09eb"
 					(reference "D43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 304.8 147.32 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9fcfbbca-7c5a-4ea9-bf02-1a508f2ccaee")
+		(property "Reference" "#PWR0159"
+			(at 308.61 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 300.99 147.3199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 304.8 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 304.8 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 304.8 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e7fdc21f-4c2a-420e-a0b0-2342963586d9")
+		)
+		(instances
+			(project ""
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/d073e50d-b064-481f-8def-abf1072e09eb"
+					(reference "#PWR0159")
 					(unit 1)
 				)
 			)
@@ -13243,6 +14060,72 @@
 			(project ""
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/d073e50d-b064-481f-8def-abf1072e09eb"
 					(reference "R61")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 77.47 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c5642394-a776-48b6-a70c-5ea3eacfc902")
+		(property "Reference" "#PWR0163"
+			(at 77.47 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 77.47 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 77.47 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 77.47 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8c09a6d1-c38d-4e82-94c1-cc7b5692b00f")
+		)
+		(instances
+			(project ""
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/d073e50d-b064-481f-8def-abf1072e09eb"
+					(reference "#PWR0163")
 					(unit 1)
 				)
 			)
@@ -14887,6 +15770,73 @@
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/d073e50d-b064-481f-8def-abf1072e09eb"
 					(reference "U26")
 					(unit 4)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 330.2 147.32 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ec41090d-b45e-4a39-8794-624bda18e6eb")
+		(property "Reference" "#PWR0158"
+			(at 336.55 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 334.01 147.3199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 330.2 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 330.2 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a1dec193-d5be-4a3c-bc57-3b0c7017c84e")
+		)
+		(instances
+			(project ""
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/d073e50d-b064-481f-8def-abf1072e09eb"
+					(reference "#PWR0158")
+					(unit 1)
 				)
 			)
 		)

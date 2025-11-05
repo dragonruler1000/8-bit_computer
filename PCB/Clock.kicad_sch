@@ -7338,7 +7338,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:N14"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 133.35 90.17 0)
 			(effects
 				(font
@@ -8098,7 +8098,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints:N14"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 247.65 95.25 0)
 			(effects
 				(font

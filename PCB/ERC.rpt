@@ -1,0 +1,235 @@
+ERC report (2025-11-04T20:05:31-0600, Encoding UTF8)
+
+***** Sheet /
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1000 mils, 2299 mils): Vertical Wire, length 1 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1000 mils, 2299 mils): Horizontal Wire, length 177 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1000 mils, 2050 mils): Vertical Wire, length 249 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1177 mils, 2299 mils): Vertical Wire, length 151 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1177 mils, 2299 mils): Horizontal Wire, length 173 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1350 mils, 2299 mils): Vertical Wire, length 1 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1350 mils, 2050 mils): Vertical Wire, length 249 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1177 mils, 2450 mils): Symbol #PWR023 Pin 1 [Power input, Line]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Custom'
+    ; warning
+    @(1700 mils, 1200 mils): Symbol U23 [74F189SJ]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Custom'
+    ; warning
+    @(4250 mils, 1200 mils): Symbol U21 [74F189SJ]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4623 mils, 6850 mils): Symbol #PWR045 Pin 1 [Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4450 mils, 6850 mils): Horizontal Wire, length 173 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4623 mils, 6850 mils): Horizontal Wire, length 177 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'AT28C64B_15PU'.
+    ; warning
+    @(5900 mils, 1700 mils): Symbol U43 [AT28C64B-15PU]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'AT28C64B-15PU'
+    ; warning
+    @(5900 mils, 1700 mils): Symbol U43 [AT28C64B-15PU]
+[footprint_link_issues]: The current configuration does not include the footprint library 'AT28C64B_15PU'.
+    ; warning
+    @(5900 mils, 4200 mils): Symbol U44 [AT28C64B-15PU]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'AT28C64B-15PU'
+    ; warning
+    @(5900 mils, 4200 mils): Symbol U44 [AT28C64B-15PU]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8175 mils, 7100 mils): Symbol #PWR0131 Pin 1 [Power input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8175 mils, 7100 mils): Horizontal Wire, length 75 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8100 mils, 7100 mils): Horizontal Wire, length 75 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'AT28C64B_15PU'.
+    ; warning
+    @(5600 mils, 4050 mils): Symbol U40 [AT28C64B-15PU]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'AT28C64B-15PU'
+    ; warning
+    @(5600 mils, 4050 mils): Symbol U40 [AT28C64B-15PU]
+[footprint_link_issues]: The current configuration does not include the footprint library 'footprints'.
+    ; warning
+    @(5500 mils, 6700 mils): Symbol U11 [74LS02]
+[footprint_link_issues]: The current configuration does not include the footprint library 'footprints'.
+    ; warning
+    @(5500 mils, 7250 mils): Symbol U11 [74LS02]
+[footprint_link_issues]: The current configuration does not include the footprint library 'footprints'.
+    ; warning
+    @(5500 mils, 7750 mils): Symbol U11 [74LS02]
+[footprint_link_issues]: The current configuration does not include the footprint library 'footprints'.
+    ; warning
+    @(5500 mils, 8300 mils): Symbol U11 [74LS02]
+[footprint_link_issues]: The current configuration does not include the footprint library 'footprints'.
+    ; warning
+    @(11150 mils, 2600 mils): Symbol U15 [74LS86]
+[footprint_link_issues]: The current configuration does not include the footprint library 'footprints'.
+    ; warning
+    @(11150 mils, 3250 mils): Symbol U15 [74LS86]
+[footprint_link_issues]: The current configuration does not include the footprint library 'footprints'.
+    ; warning
+    @(11150 mils, 3850 mils): Symbol U15 [74LS86]
+[footprint_link_issues]: The current configuration does not include the footprint library 'footprints'.
+    ; warning
+    @(11150 mils, 4450 mils): Symbol U15 [74LS86]
+[footprint_link_issues]: The current configuration does not include the footprint library 'footprints'.
+    ; warning
+    @(14700 mils, 3050 mils): Symbol U11 [74LS02]
+[footprint_link_issues]: The current configuration does not include the footprint library 'footprints'.
+    ; warning
+    @(14700 mils, 4400 mils): Symbol U15 [74LS86]
+
+***** Sheet /Clock/
+[missing_input_pin]: Symbol U4 has input pins in units [ Unit D ] that are not placed.
+    ; warning
+    @(3750 mils, 3250 mils): Symbol U4 [74LS08]
+[missing_unit]: Symbol U6 has unplaced units [ Unit B, Unit C, Unit D ]
+    ; warning
+    @(5250 mils, 3550 mils): Symbol U6 [74LS32]
+
+***** Sheet /a-register/
+
+***** Sheet /b-register/
+
+***** Sheet /ALU/
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(6650 mils, 3750 mils): Symbol U17 Pin 2 [A0, Tri-state, Line]
+    @(8150 mils, 4350 mils): Symbol U13 Pin 10 [S4, Output, Line]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(6750 mils, 3750 mils): Symbol U17 Pin 3 [A1, Tri-state, Line]
+    @(8150 mils, 4450 mils): Symbol U13 Pin 13 [S3, Output, Line]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(6850 mils, 3750 mils): Symbol U17 Pin 4 [A2, Tri-state, Line]
+    @(8150 mils, 4550 mils): Symbol U13 Pin 1 [S2, Output, Line]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(6950 mils, 3750 mils): Symbol U17 Pin 5 [A3, Tri-state, Line]
+    @(8150 mils, 4650 mils): Symbol U13 Pin 4 [S1, Output, Line]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(7050 mils, 3750 mils): Symbol U17 Pin 6 [A4, Tri-state, Line]
+    @(8150 mils, 6700 mils): Symbol U14 Pin 10 [S4, Output, Line]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(7150 mils, 3750 mils): Symbol U17 Pin 7 [A5, Tri-state, Line]
+    @(8150 mils, 6800 mils): Symbol U14 Pin 13 [S3, Output, Line]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(7250 mils, 3750 mils): Symbol U17 Pin 8 [A6, Tri-state, Line]
+    @(8150 mils, 6900 mils): Symbol U14 Pin 1 [S2, Output, Line]
+
+***** Sheet /MAR/
+
+***** Sheet /RAM/
+[missing_input_pin]: Symbol U20 has input pins in units [ Unit E ] that are not placed.
+    ; warning
+    @(1850 mils, 3800 mils): Symbol U20 [74LS04]
+[missing_unit]: Symbol U20 has unplaced units [ Unit E ]
+    ; warning
+    @(1850 mils, 3800 mils): Symbol U20 [74LS04]
+[pin_to_pin]: Pins of type Output and Output are connected
+    ; error
+    @(4150 mils, 1550 mils): Symbol U21 Pin 5 [~{O}0, Output, Line]
+    @(13500 mils, 3750 mils): Symbol U22 Pin 2 [Output, Inverted]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(6750 mils, 5150 mils): Symbol U25 Pin 2 [A0, Tri-state, Line]
+    @(3400 mils, 5000 mils): Symbol U27 Pin 2 [Output, Inverted]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(6750 mils, 5250 mils): Symbol U25 Pin 3 [A1, Tri-state, Line]
+    @(3750 mils, 5000 mils): Symbol U27 Pin 4 [Output, Inverted]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(6750 mils, 5350 mils): Symbol U25 Pin 4 [A2, Tri-state, Line]
+    @(4100 mils, 5000 mils): Symbol U27 Pin 6 [Output, Inverted]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(6750 mils, 5450 mils): Symbol U25 Pin 5 [A3, Tri-state, Line]
+    @(4450 mils, 5000 mils): Symbol U27 Pin 8 [Output, Inverted]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(6750 mils, 5550 mils): Symbol U25 Pin 6 [A4, Tri-state, Line]
+    @(4800 mils, 5000 mils): Symbol U27 Pin 10 [Output, Inverted]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(6750 mils, 5650 mils): Symbol U25 Pin 7 [A5, Tri-state, Line]
+    @(5150 mils, 5000 mils): Symbol U27 Pin 12 [Output, Inverted]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(6750 mils, 5750 mils): Symbol U25 Pin 8 [A6, Tri-state, Line]
+    @(5500 mils, 5000 mils): Symbol U28 Pin 2 [Output, Inverted]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(6750 mils, 5850 mils): Symbol U25 Pin 9 [A7, Tri-state, Line]
+    @(5850 mils, 5000 mils): Symbol U28 Pin 4 [Output, Inverted]
+[multiple_net_names]: Both BUS_4 and BUS_7 are attached to the same items; BUS_4 will be used in the netlist
+    ; warning
+    @(12100 mils, 5450 mils): Hierarchical Label 'BUS_4'
+    @(12100 mils, 5150 mils): Hierarchical Label 'BUS_7'
+
+***** Sheet /Program Counter/
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(2450 mils, 2250 mils): Symbol U29 Pin 14 [B4, Tri-state, Line]
+    @(3750 mils, 2250 mils): Symbol U30 Pin 11 [Q3, Output, Line]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(2450 mils, 2350 mils): Symbol U29 Pin 13 [B5, Tri-state, Line]
+    @(3750 mils, 2350 mils): Symbol U30 Pin 12 [Q2, Output, Line]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(2450 mils, 2450 mils): Symbol U29 Pin 12 [B6, Tri-state, Line]
+    @(3750 mils, 2450 mils): Symbol U30 Pin 13 [Q1, Output, Line]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(2450 mils, 2550 mils): Symbol U29 Pin 11 [B7, Tri-state, Line]
+    @(3750 mils, 2550 mils): Symbol U30 Pin 14 [Q0, Output, Line]
+
+***** Sheet /Output/
+[missing_input_pin]: Symbol U33 has input pins in units [ Unit B ] that are not placed.
+    ; warning
+    @(5800 mils, 1850 mils): Symbol U33 [74LS139]
+[missing_unit]: Symbol U33 has unplaced units [ Unit B ]
+    ; warning
+    @(5800 mils, 1850 mils): Symbol U33 [74LS139]
+[missing_input_pin]: Symbol U39 has input pins in units [ Unit B, Unit C, Unit D ] that are not placed.
+    ; warning
+    @(6450 mils, 7000 mils): Symbol U39 [74LS08]
+[missing_unit]: Symbol U39 has unplaced units [ Unit B, Unit C, Unit D ]
+    ; warning
+    @(6450 mils, 7000 mils): Symbol U39 [74LS08]
+
+***** Sheet /CPU control/
+[missing_input_pin]: Symbol U45 has input pins in units [ Unit B, Unit C, Unit D ] that are not placed.
+    ; warning
+    @(3250 mils, 6950 mils): Symbol U45 [74LS00]
+[missing_unit]: Symbol U45 has unplaced units [ Unit B, Unit C, Unit D ]
+    ; warning
+    @(3250 mils, 6950 mils): Symbol U45 [74LS00]
+
+***** Sheet /Instruction register/
+
+ ** ERC messages: 63  Errors 1  Warnings 62
