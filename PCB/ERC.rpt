@@ -1,4 +1,4 @@
-ERC report (2025-11-04T20:05:31-0600, Encoding UTF8)
+ERC report (2025-11-05T09:46:54-0600, Encoding UTF8)
 
 ***** Sheet /
 [endpoint_off_grid]: Symbol pin or wire end off connection grid
@@ -25,21 +25,21 @@ ERC report (2025-11-04T20:05:31-0600, Encoding UTF8)
 [endpoint_off_grid]: Symbol pin or wire end off connection grid
     ; warning
     @(1177 mils, 2450 mils): Symbol #PWR023 Pin 1 [Power input, Line]
-[lib_symbol_issues]: The current configuration does not include the symbol library 'Custom'
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
     ; warning
-    @(1700 mils, 1200 mils): Symbol U23 [74F189SJ]
-[lib_symbol_issues]: The current configuration does not include the symbol library 'Custom'
+    @(2300 mils, 1600 mils): Symbol U21 [74F189SC]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
     ; warning
-    @(4250 mils, 1200 mils): Symbol U21 [74F189SJ]
+    @(6700 mils, 1600 mils): Symbol U23 [74F189SC]
 [endpoint_off_grid]: Symbol pin or wire end off connection grid
     ; warning
     @(4623 mils, 6850 mils): Symbol #PWR045 Pin 1 [Power input, Line]
 [endpoint_off_grid]: Symbol pin or wire end off connection grid
     ; warning
-    @(4450 mils, 6850 mils): Horizontal Wire, length 173 mils
+    @(4623 mils, 6850 mils): Horizontal Wire, length 177 mils
 [endpoint_off_grid]: Symbol pin or wire end off connection grid
     ; warning
-    @(4623 mils, 6850 mils): Horizontal Wire, length 177 mils
+    @(4450 mils, 6850 mils): Horizontal Wire, length 173 mils
 [footprint_link_issues]: The current configuration does not include the footprint library 'AT28C64B_15PU'.
     ; warning
     @(5900 mils, 1700 mils): Symbol U43 [AT28C64B-15PU]
@@ -143,16 +143,10 @@ ERC report (2025-11-04T20:05:31-0600, Encoding UTF8)
 ***** Sheet /MAR/
 
 ***** Sheet /RAM/
-[missing_input_pin]: Symbol U20 has input pins in units [ Unit E ] that are not placed.
-    ; warning
-    @(1850 mils, 3800 mils): Symbol U20 [74LS04]
-[missing_unit]: Symbol U20 has unplaced units [ Unit E ]
-    ; warning
-    @(1850 mils, 3800 mils): Symbol U20 [74LS04]
-[pin_to_pin]: Pins of type Output and Output are connected
+[pin_to_pin]: Pins of type Power output and Power output are connected
     ; error
-    @(4150 mils, 1550 mils): Symbol U21 Pin 5 [~{O}0, Output, Line]
-    @(13500 mils, 3750 mils): Symbol U22 Pin 2 [Output, Inverted]
+    @(2300 mils, 2300 mils): Symbol U21 Pin 8 [GND, Power output, Line]
+    @(2300 mils, 2300 mils): Symbol U21 Pin 8 [GND, Power output, Line]
 [pin_to_pin]: Pins of type Tri-state and Output are connected
     ; warning
     @(6750 mils, 5150 mils): Symbol U25 Pin 2 [A0, Tri-state, Line]
@@ -185,10 +179,12 @@ ERC report (2025-11-04T20:05:31-0600, Encoding UTF8)
     ; warning
     @(6750 mils, 5850 mils): Symbol U25 Pin 9 [A7, Tri-state, Line]
     @(5850 mils, 5000 mils): Symbol U28 Pin 4 [Output, Inverted]
-[multiple_net_names]: Both BUS_4 and BUS_7 are attached to the same items; BUS_4 will be used in the netlist
+[missing_input_pin]: Symbol U20 has input pins in units [ Unit E ] that are not placed.
     ; warning
-    @(12100 mils, 5450 mils): Hierarchical Label 'BUS_4'
-    @(12100 mils, 5150 mils): Hierarchical Label 'BUS_7'
+    @(9000 mils, 2600 mils): Symbol U20 [74LS04]
+[missing_unit]: Symbol U20 has unplaced units [ Unit E ]
+    ; warning
+    @(9000 mils, 2600 mils): Symbol U20 [74LS04]
 
 ***** Sheet /Program Counter/
 [pin_to_pin]: Pins of type Tri-state and Output are connected
@@ -232,4 +228,4 @@ ERC report (2025-11-04T20:05:31-0600, Encoding UTF8)
 
 ***** Sheet /Instruction register/
 
- ** ERC messages: 63  Errors 1  Warnings 62
+ ** ERC messages: 62  Errors 1  Warnings 61
