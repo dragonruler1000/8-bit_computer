@@ -108,3 +108,9 @@ Routed the power plane of the PCB and like the ground plane it just had a few SM
 this was pretty simple because i had figured out how to do it properly already.![Screenshot_20251106_193525](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA0MywicHVyIjoiYmxvYl9pZCJ9fQ==--dad986a8453e4f22dbae03b727cd1d89e254cf7d/Screenshot_20251106_193525.png)
   
 
+## 11/6/2025 9 PM - finished routing the PCB  
+
+Sense i chose to go with the 6 layer PCB the routing of the signals was easy. the hardest part was trying to find the nets that still needed connected near the end and figuring out the via setup for the areas that need a high amount of level changes in a concentrated areas though i did try to avoid that completely.
+now the question is what silkscreen art to add to the blank spaces.
+![Screenshot_20251106_212630](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--6028450f60c72b311cb83152893c8ca4ebd27323/Screenshot_20251106_212630.png)  
+
