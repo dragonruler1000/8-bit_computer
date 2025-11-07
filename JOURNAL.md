@@ -97,8 +97,14 @@ I fixed most of the ERC errors witch i probably should have done before i spent 
 attached is a screen shot of the last ERC error i have remaining.![Screenshot_20251104_200049](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--7f557a745c9d07c693dc7781734143d2308d65d8/Screenshot_20251104_200049.png)
   
 
-## 11/6/2025 - Routed the gnd plane  
+## 11/6/2025 11 AM - Routed the gnd plane  
 
 sense i did the cost/benefit analysis and found that a 6 layer PCB is worth the extra cost over a 2 layer PCB and sense with the $20 coupon it is actually cheaper then the 4 layer PCB ($3 less but still) i chose to go with a 6 layer pcb to make routing easier. Now i have all of the ground pins routed with only 7 traces that needed to change to the top layer for the 555 timers and 2 other of the same ICs and the USB-C port because they are SMD (i couldn't find any THT footprints for them). next i am going to do the power plane.![Screenshot_20251106_105905](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--4fb9a827adad0aa0231277a64f1824bf8fa5b2b3/Screenshot_20251106_105905.png)
+  
+
+## 11/6/2025 7 PM - Routed the power plane  
+
+Routed the power plane of the PCB and like the ground plane it just had a few SMD pins to route.
+this was pretty simple because i had figured out how to do it properly already.![Screenshot_20251106_193525](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA0MywicHVyIjoiYmxvYl9pZCJ9fQ==--dad986a8453e4f22dbae03b727cd1d89e254cf7d/Screenshot_20251106_193525.png)
   
 
