@@ -3,7 +3,7 @@ This is a 8-bit computer baised on the version that ben eater made on a breadboa
 I made it so i could learn more how to route pcbs and learn how computers work on a more detailed level. <br>
 It is programed by the dip switches the 4 possition is for addres and the 8 possition is for instruction/data.
 # Usage instructions
-more detailed instructions are 
+more detailed instructions are going to be added after i get the pc built and the microcode working.
 # pictures
 PCB 3d model
 <img width="1083" height="605" alt="image" src="https://github.com/user-attachments/assets/73965500-a31c-47f8-b1ad-680698a0f2b9" />
