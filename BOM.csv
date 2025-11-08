@@ -1,13 +1,13 @@
-Quantity ,Value,Unit Price $,Total price $,price with coupns,Link,running total,running total with coupons,notes
+Quantity ,Value,Unit Price $,Total price $,price with coupons,Link,running total,running total with coupons,notes
 10,1k resistor,0.026,0.26,0.26,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT1K00/1741314,0.28,0.28,
-9,10k resistor,0.035,0.315,0.315,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=691104,0.61,0.61,order in multibles of ten
-1,100k resistor,0.035,0.035,0.035,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=691340,0.65,0.65,order in multibles of ten
-24,470 resisrer,0.035,0.84,0.84,https://www.jameco.com/z/CF1-4W471JRC-Resistor-Carbon-Film-470-Ohm-1-4-Watt-5-_690785.html,1.54,1.54,order in multibles of ten
+9,10k resistor,0.035,0.315,0.315,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=691104,0.61,0.61,order in multiples of ten
+1,100k resistor,0.035,0.035,0.035,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=691340,0.65,0.65,order in multiples of ten
+24,470 resister,0.035,0.84,0.84,https://www.jameco.com/z/CF1-4W471JRC-Resistor-Carbon-Film-470-Ohm-1-4-Watt-5-_690785.html,1.54,1.54,order in multiples of ten
 1,1M resistor,0.1,0.1,0.1,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT1M00/1741316,1.65,1.65,
 1,1M potentiometer,1.29,1.29,1.29,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=2161422,3.02,3.02,
 6,0.01 uF cap,0.9,5.4,5.4,https://www.digikey.com/en/products/detail/murata-electronics/DE2E3SA103MN7AT02F/10703692,8.74,8.74,
-16,0.1 uf cap,0.19,3.04,3.04,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=151116,11.96,11.96,order in multibles of ten
-1,1 uf cap,0.15,0.15,0.15,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=330431,12.12,12.12,order in multibles of ten
+16,0.1 uf cap,0.19,3.04,3.04,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=151116,11.96,11.96,order in multiples of ten
+1,1 uf cap,0.15,0.15,0.15,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=330431,12.12,12.12,order in multiples of ten
 4,555 timer,0.24,0.96,0.96,https://www.digikey.com/en/products/detail/diodes-incorporated/NE555S-13/2921391,13.14,13.14,
 2,74LS00,0.75,1.5,1.5,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=46252,14.73,14.73,
 1,74LS02,0.63,0.63,0.63,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=46287,15.4,15.4,

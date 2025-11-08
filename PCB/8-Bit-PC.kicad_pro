@@ -520,10 +520,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "8-bitpc-gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "8-Bit-PC.step",
       "svg": "",
       "vrml": ""
     },
