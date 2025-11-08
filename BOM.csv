@@ -1,62 +1,40 @@
-Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,MANUFACTURER,#
-"C1,C2,C3,C4,C5,C6",6,0.01 µF,,,,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~,,1
-C7,1,1 µF,,,,Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm,,,2
-"C8,C9,C10,C11,C12,C13,C15,C18,C19,C20,C21,C?",12,0.1 µF,,,,,~,,3
-"C14,C16,C17",3,0.01 µF,,,,,~,,4
-D1,1,BLUE,,,,LED_THT:LED_D3.0mm,~,,5
-"D2,D3,D4,D5,D6,D7,D8,D9",8,RED,,,,LED_THT:LED_D3.0mm,~,,6
-"D10,D20,D21,D22,D23,D26,D27,D28,D29,D30,D31,D32,D33,D37",14,LED,,,,,~,,7
-"D11,D12,D13,D14,D15,D16,D17,D18,D19",9,LED,,,,LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm,~,,8
-"D24,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69",12,RED,,,,,~,,9
-"D25,D34,D35,D36,D54,D55,D56,D57,D58",9,GREEN,,,,,~,,10
-"D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53",16,BLUE,,,,,~,,11
-"R1,R2,R3",3,1K,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,~,,12
-"R4,R5,R6",3,R,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,~,,13
-R7,1,220,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,~,,14
-"R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R33,R34,R35,R36,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59,R60,R61,R62,R63,R65,R66,R67,R68,R69,R70,R71,R72",58,220,,,,,~,,15
-"R18,R19,R32",3,1K,,,,,~,,16
-"R37,R64",2,1k,,,,,~,,17
-R38,1,100k,,,,,~,,18
-"R39,R73,R74,R75,R76,R77,R78,R79,R80",9,10k,,,,,~,,19
-RV1,1,1M,,,,Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,~,,20
-"SW1,SW6,SW8",3,SW_Push,,,,,~,,21
-"SW2,SW4,SW7",3,SW_SPDT,,,,,~,,22
-SW3,1,SW_DIP_x04,,,,,~,,23
-SW5,1,SW_DIP_x08,,,,,~,,24
-"U1,U2,U3,U31",4,LM555xM,,,,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.ti.com/lit/ds/symlink/lm555.pdf,,25
-"U4,U10",2,74LS08,,,,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS08,,26
-U5,1,74LS04,,,,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS04,,27
-U6,1,74LS32,,,,,http://www.ti.com/lit/gpn/sn74LS32,,28
-"U7,U17,U25,U29,U?",5,74LS245,,,,,http://www.ti.com/lit/gpn/sn74LS245,,29
-"U8,U9,U19,U?,U?",5,74LS173,,,,,http://www.ti.com/lit/gpn/sn74LS173,,30
-U11,1,74LS02,,,,,http://www.ti.com/lit/gpn/sn74ls02,,31
-U12,1,74LS173,,,,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/gpn/sn74LS173,,32
-"U13,U14",2,74LS283,,,,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/gpn/sn74LS283,,33
-"U15,U16",2,74LS86,,,,,74xx/74ls86.pdf,,34
-"U18,U20,U22,U24",4,74LS157,,,,,http://www.ti.com/lit/gpn/sn74LS157,,35
-"U21,U23",2,74189,,,,,https://eater.net/datasheets/74189.pdf,,36
-"U26,U45",2,74LS00,,,,,http://www.ti.com/lit/gpn/sn74ls00,,37
-"U27,U28,U46,U47",4,74LS04,,,,,http://www.ti.com/lit/gpn/sn74LS04,,38
-"U30,U41",2,74LS161,,,,,http://www.ti.com/lit/gpn/sn74LS161,,39
-U32,1,74LS76,,,,,http://www.ti.com/lit/gpn/sn74LS76,,40
-U33,1,74LS139,,,,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/ds/symlink/sn74ls139a.pdf,,41
-"U34,U35,U36,U37",4,D148K,,,,Display_7Segment:D1X8K,https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf,,42
-U38,1,74LS273,,,,,http://www.ti.com/lit/gpn/sn74LS273,,43
-U39,1,74LS08,,,,,http://www.ti.com/lit/gpn/sn74LS08,,44
-"U40,U43,U44",3,AT28C64B-15PU,,,,AT28C64B_15PU:DIP1555W45P254L3733H482Q28,https://ww1.microchip.com/downloads/en/DeviceDoc/doc0270.pdf,Microchip Technology,45
-U42,1,74LS138,,,,,http://www.ti.com/lit/gpn/sn74LS138,,46
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-![Screenshot_20251026_165409](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTgyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--4bd96d94e1b8c2c169f6b67b09845199ded7aaa9/Screenshot_20251026_165409.png),,,,,,,,,
+Quantity ,Value,Unit Price $,Total price $,price with coupns,Link,running total,running total with coupons,notes
+10,1k resistor,0.026,0.26,0.26,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT1K00/1741314,0.28,0.28,
+9,10k resistor,0.035,0.315,0.315,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=691104,0.61,0.61,order in multibles of ten
+1,100k resistor,0.035,0.035,0.035,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=691340,0.65,0.65,order in multibles of ten
+24,470 resisrer,0.035,0.84,0.84,https://www.jameco.com/z/CF1-4W471JRC-Resistor-Carbon-Film-470-Ohm-1-4-Watt-5-_690785.html,1.54,1.54,order in multibles of ten
+1,1M resistor,0.1,0.1,0.1,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT1M00/1741316,1.65,1.65,
+1,1M potentiometer,1.29,1.29,1.29,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=2161422,3.02,3.02,
+6,0.01 uF cap,0.9,5.4,5.4,https://www.digikey.com/en/products/detail/murata-electronics/DE2E3SA103MN7AT02F/10703692,8.74,8.74,
+16,0.1 uf cap,0.19,3.04,3.04,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=151116,11.96,11.96,order in multibles of ten
+1,1 uf cap,0.15,0.15,0.15,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=330431,12.12,12.12,order in multibles of ten
+4,555 timer,0.24,0.96,0.96,https://www.digikey.com/en/products/detail/diodes-incorporated/NE555S-13/2921391,13.14,13.14,
+2,74LS00,0.75,1.5,1.5,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=46252,14.73,14.73,
+1,74LS02,0.63,0.63,0.63,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=46287,15.4,15.4,
+5,74ls04,0.9,4.5,4.5,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&pa=46316&productId=46316,20.17,20.17,
+3,74ls08,0.79,2.37,2.37,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=46375,22.68,22.68,
+1,74ls32,0.76,0.76,0.76,https://www.digikey.com/en/products/detail/texas-instruments/sn74ls32n/277304,23.49,23.49,
+1,74ls107,2.25,2.25,2.25,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10001&productId=46412,25.88,25.88,
+2,74ls86,0.7,1.4,1.4,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&pa=48098&productId=48098,27.36,27.36,
+1,74LS138,0.85,0.85,0.85,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=46607,28.26,28.26,
+1,74LS139,0.75,0.75,0.75,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=46623,29.06,29.06,
+1,74LS157,0.85,0.85,0.85,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&pa=46771&productId=46771,29.96,29.96,
+2,74ls161,0.85,1.7,1.7,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=46818,31.76,31.76,
+8,74ls173,0.99,7.92,7.92,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=46922,40.16,40.16,
+2,SN74189N,4.45,8.9,8.9,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=49883,49.59,49.59,
+6,74ls245,1.09,6.54,6.54,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&pa=47212&productId=47212,56.52,56.52,
+1,74ls273,1.09,1.09,1.09,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=47386,57.68,57.68,
+2,74ls283,1.95,3.9,3.9,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=47423,61.81,61.81,
+3,AT28C64B-15PU,5.5,16.5,16.5,https://www.digikey.com/en/products/detail/microchip-technology/AT28C64B-15PU/1008529?s=N4IgTCBcDaIIIBUwA4DCA2ALAIQLQEYBWABQFUQBdAXyA,79.3,79.3,
+3,Double-throw toggle switch,0.66,1.98,1.98,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?history=&catalogId=10001&langId=-1&freeText=2258831&storeId=10001&productId=2258831,81.4,81.4,
+3,Momentary 6mm tact switch,0.25,0.75,0.75,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=149948,82.2,82.2,
+1,8-position DIP switch,1.04,1.04,1.04,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=38842,83.3,83.3,
+1,4-position DIP switch,0.59,0.59,0.59,https://www.digikey.com/en/products/detail/cts-electrocomponents/210-4MS/2503781,83.93,83.93,
+44,Red LED,0.083,3.652,3.652,https://www.digikey.com/en/products/detail/american-bright-optoelectronics-corporation/BL-BUF3V1L/22486898,87.8,87.8,
+8,Yellow LED,0.12,0.96,0.96,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=697549,88.82,88.82,
+21,Blue LED,0.25,5.25,5.25,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=2234071,94.39,94.39,
+12,Green LED,0.12,1.44,1.44,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=693901,95.92,95.92,
+4,Common cathode 7-segment display,1.04,4.16,4.16,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=17187,100.33,100.33,
+1,PCB,66,66,46,JLCPCB.com,170.29,149.09,
+1,stencil,7,7,7,JLCPCB.com,177.71,156.51,
+1,Case shipping cost,15,15,15,,193.61,172.41,Added just in case it is needed
