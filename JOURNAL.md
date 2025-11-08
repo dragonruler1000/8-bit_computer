@@ -114,9 +114,14 @@ Sense i chose to go with the 6 layer PCB the routing of the signals was easy. th
 now the question is what silkscreen art to add to the blank spaces.
 ![Screenshot_20251106_212630](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--6028450f60c72b311cb83152893c8ca4ebd27323/Screenshot_20251106_212630.png)  
 
-## 11/7/2025 - made the case and added the silkscreen art  
+## 11/7/2025 2 PM - made the case and added the silkscreen art  
 
 made a simple case for my project witch is more for keeping the solder joints and the parts on the back off the ground so it is only a base with standoffs and doesn't include a top case. the silk screen art is just QR codes linking to the blueprint page and the github repo.![Screenshot_20251107_135502](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--8f1208b1b9d7af18dfe3293b1833219e25e6e639/Screenshot_20251107_135502.png)
 ![Screenshot_20251107_142128](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--1834c6fca22cb7a219ee7160140aa1ea16fd3222/Screenshot_20251107_142128.png)
+  
+
+## 11/7/2025 8 PM - Rerouted the pcb  
+
+While i was working on the BOM for my project i realized that one of the parts i had on my PCB wasn't going to work so i needed to switch to a different chip that is a THT instead witch was also bigger. though sense i didn't really make to many changes to the layout re routing the PCB didn't take to long because i already know how it would work mostly. as long with using a ground and power plane instead of needing to connect via traces witch probably where to small to contain the power and heat anyways.![Screenshot_20251107_200941](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--59641ff504840167d7b455b1fa445cc6c9f0cdad/Screenshot_20251107_200941.png)
   
 
