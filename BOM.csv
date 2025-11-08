@@ -37,4 +37,5 @@ Quantity ,Value,Unit Price $,Total price $,price with coupns,Link,running total,
 4,Common cathode 7-segment display,1.04,4.16,4.16,https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=17187,100.33,100.33,
 1,PCB,66,66,46,JLCPCB.com,170.29,149.09,
 1,stencil,7,7,7,JLCPCB.com,177.71,156.51,
-1,Case shipping cost,15,15,15,,193.61,172.41,Added just in case it is needed
+1,PCB and Stencil Shipping,37.39,37.39,37.39,JLCPCB.com,217.34,196.14,
+1,Case shipping cost,15,15,15,,233.24,212.04,Added just in case it is needed
