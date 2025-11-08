@@ -2,7 +2,7 @@
 This is a 8-bit computer baised on the version that ben eater made on a breadboard. <br>
 I made it so i could learn more how to route pcbs and learn how computers work on a more detailed level. <br>
 It is programed by the dip switches the 4 possition is for addres and the 8 possition is for instruction/data.
-#usage instructions
+# Usage instructions
 more detailed instructions are 
 # pictures
 PCB 3d model
