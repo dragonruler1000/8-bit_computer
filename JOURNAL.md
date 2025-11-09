@@ -125,3 +125,9 @@ made a simple case for my project witch is more for keeping the solder joints an
 While i was working on the BOM for my project i realized that one of the parts i had on my PCB wasn't going to work so i needed to switch to a different chip that is a THT instead witch was also bigger. though sense i didn't really make to many changes to the layout re routing the PCB didn't take to long because i already know how it would work mostly. as long with using a ground and power plane instead of needing to connect via traces witch probably where to small to contain the power and heat anyways.![Screenshot_20251107_200941](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--59641ff504840167d7b455b1fa445cc6c9f0cdad/Screenshot_20251107_200941.png)
   
 
+## 11/9/2025 - Update BOM  
+
+Updated BOM to use parts sourced from LCSC. if a part was cheaper on Digikey or Jameco i left it to be ordered from there. I also removed the stencil from my order. i would switch to lead free HASL but JLCPCB doesn't let me choose anything but ENIG for a 6 layer PCB.
+![Screenshot_20251109_104900](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--bbd7a4bd9af013b62e1a4623999bc39f554020e9/Screenshot_20251109_104900.png)
+  
+
