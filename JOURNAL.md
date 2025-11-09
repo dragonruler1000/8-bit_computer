@@ -127,7 +127,7 @@ While i was working on the BOM for my project i realized that one of the parts i
 
 ## 11/9/2025 - Update BOM  
 
-Updated BOM to use parts sourced from LCSC. if a part was cheaper on Digikey or Jameco i left it to be ordered from there. I also removed the stencil from my order. i would switch to lead free HASL but JLCPCB doesn't let me choose anything but ENIG for a 6 layer PCB.
+Updated BOM to use parts sourced from LCSC. if a part was cheaper on Digikey or Jameco i left it to be ordered from there. I also removed the stencil from my order. i would switch to lead free HASL but JLCPCB doesn't let me choose anything but ENIG for a 6 layer PCB witch with the $20 coupon i am going to use (exspires 04/01/2026) it is $3 cheaper then a 4 layer PCB.
 ![Screenshot_20251109_105040](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--b881ec0331e624a800d8accf646ab42998505223/Screenshot_20251109_105040.png)
 
   
