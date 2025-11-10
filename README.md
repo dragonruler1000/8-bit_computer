@@ -6,14 +6,14 @@ It is programed by the dip switches the 4 possition is for addres and the 8 poss
 more detailed instructions are going to be added after i get the pc built and the microcode working.
 # pictures
 Full 3D model
-<img width="944" height="577" alt="Screenshot_20251110_170605" src="https://github.com/user-attachments/assets/6df78fa6-94be-4f81-b97a-534fb27531c4" />
+<img width="944" height="577" alt="Screenshot_20251110_170605" src="https://github.com/user-attachments/assets/6df78fa6-94be-4f81-b97a-534fb27531c4" /><br>
 PCB 3d model
 <img width="1083" height="605" alt="image" src="https://github.com/user-attachments/assets/73965500-a31c-47f8-b1ad-680698a0f2b9" />
 PCB
 <img width="1367" height="696" alt="Screenshot_20251107_200941" src="https://github.com/user-attachments/assets/628024c5-a7d2-492d-949b-10181540a5f0" />
 Case 3d model
 <img width="1344" height="720" alt="Screenshot_20251108_090502" src="https://github.com/user-attachments/assets/3262732e-0a29-4f9e-8380-44750e9c4f33" />
-#BOM
+# BOM
 | Quantity | Value                            | Unit Price $ | Total price $ | price with coupns | Link                                                                                                                                                | running total | running total with coupons | notes                           |
 |----------|----------------------------------|--------------|---------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|---------------|----------------------------|---------------------------------|
 | 10       | 1k resistor                      | 0.026        | 0.26          | 0.26              | https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT1K00/1741314                                                             | 0.28          | 0.28                       |                                 |
