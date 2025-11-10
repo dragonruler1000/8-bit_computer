@@ -5,6 +5,8 @@ It is programed by the dip switches the 4 possition is for addres and the 8 poss
 # Usage instructions
 more detailed instructions are going to be added after i get the pc built and the microcode working.
 # pictures
+Full 3D model
+<img width="944" height="577" alt="Screenshot_20251110_170605" src="https://github.com/user-attachments/assets/6df78fa6-94be-4f81-b97a-534fb27531c4" />
 PCB 3d model
 <img width="1083" height="605" alt="image" src="https://github.com/user-attachments/assets/73965500-a31c-47f8-b1ad-680698a0f2b9" />
 PCB
