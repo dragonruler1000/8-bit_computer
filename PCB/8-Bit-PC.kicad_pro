@@ -522,7 +522,7 @@
       "netlist": "",
       "plot": "8-bitpc-gerbers/",
       "pos_files": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "8-Bit-PC.dsn",
       "step": "8-Bit-PC.stl",
       "svg": "",
       "vrml": ""
@@ -673,7 +673,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "sanity_check/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
