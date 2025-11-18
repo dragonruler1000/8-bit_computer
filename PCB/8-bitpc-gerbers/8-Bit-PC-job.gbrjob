@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "9.0.4-1.fc42app3"
+      "Version": "9.0.6"
     },
-    "CreationDate": "2025-11-07T21:17:41-06:00"
+    "CreationDate": "2025-11-18T15:10:39-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -47,22 +47,22 @@
     },
     {
       "Path": "8-Bit-PC-In1_Cu.gbr",
-      "FileFunction": "Copper,L5,Inr",
+      "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
       "Path": "8-Bit-PC-In2_Cu.gbr",
-      "FileFunction": "Copper,L7,Inr",
+      "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {
       "Path": "8-Bit-PC-In3_Cu.gbr",
-      "FileFunction": "Copper,L9,Inr",
+      "FileFunction": "Copper,L4,Inr",
       "FilePolarity": "Positive"
     },
     {
       "Path": "8-Bit-PC-In4_Cu.gbr",
-      "FileFunction": "Copper,L11,Inr",
+      "FileFunction": "Copper,L5,Inr",
       "FilePolarity": "Positive"
     },
     {
