@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 2400)
+    (start_pass_no 241)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
@@ -156,7 +156,8 @@
     "unconnected-(U22-Pad13)" "unconnected-(U22-Pad8)" "unconnected-(U22-Pad11)" "unconnected-(U22-Pad6)" "Net-(U23-*O2)" "Net-(U23-*O3)" "Net-(U23-*O1)" "Net-(U23-*O0)"
     "unconnected-(U47-Pad5)" "unconnected-(U47-Pad6)" "unconnected-(U47-Pad11)" "unconnected-(U47-Pad12)" "unconnected-(U47-Pad8)" "unconnected-(U47-Pad9)" "unconnected-(U47-Pad13)" "unconnected-(U47-Pad10)"
     "unconnected-(U6-Pad4)" "unconnected-(U6-Pad9)" "unconnected-(U6-Pad8)" "unconnected-(U6-Pad5)" "unconnected-(U6-Pad13)" "unconnected-(U6-Pad6)" "unconnected-(U6-Pad10)" "unconnected-(U6-Pad11)"
-    "unconnected-(U6-Pad12)"
+    "unconnected-(U6-Pad12)" "Net-(U18-I0d)" "Net-(U18-I0b)" "Net-(U18-I0c)" "Net-(U18-I0a)" "Net-(U18-I1a)" "Net-(U18-I1b)" "Net-(U18-I1c)"
+    "Net-(U18-I1d)"
     (clearance_class "kicad_default")
     (via_rule kicad_default)
     (rule

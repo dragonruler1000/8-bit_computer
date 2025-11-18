@@ -1554,6 +1554,12 @@
 		(uuid "0227a397-ec5c-4930-9c22-8dddd07e4be6")
 	)
 	(junction
+		(at 46.99 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "023732bb-8421-4a81-8a5f-bdcac4a44466")
+	)
+	(junction
 		(at 185.42 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1710,6 +1716,12 @@
 		(uuid "aabbb71d-b68a-4164-ae99-8c0810161551")
 	)
 	(junction
+		(at 213.36 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b4bd023e-683e-491c-8462-fc389da26412")
+	)
+	(junction
 		(at 59.69 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1738,6 +1750,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "db7e7045-1f6e-46f1-9c6b-39b11411d970")
+	)
+	(junction
+		(at 154.94 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dba72602-74eb-4f24-86e1-0b5d2c358642")
 	)
 	(junction
 		(at 62.23 30.48)
@@ -3633,16 +3651,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 87.63 58.42 0)
+		(at 213.36 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "2beaaad6-607f-47bc-9807-b4bbb8aa7b1c")
-		(property "Reference" "#PWR0137"
-			(at 87.63 64.77 0)
+		(uuid "1c843978-b6cc-4120-b079-078bf69a9b5b")
+		(property "Reference" "#PWR0179"
+			(at 213.36 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3651,7 +3669,209 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 87.63 63.5 0)
+			(at 213.36 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 213.36 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 213.36 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 213.36 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0add76c5-1166-4c17-8ac7-452ad748deab")
+		)
+		(instances
+			(project "8-Bit-PC"
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
+					(reference "#PWR0179")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 46.99 50.8 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "330ac3b3-5645-4299-897a-079833a59326")
+		(property "Reference" "#PWR0177"
+			(at 46.99 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 46.99 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 46.99 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 46.99 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fd032423-bdc8-491c-8b00-f90b0490a34b")
+		)
+		(instances
+			(project "8-Bit-PC"
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
+					(reference "#PWR0177")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 154.94 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3d45ad3e-ef85-48f3-9619-80ce25721464")
+		(property "Reference" "C43"
+			(at 158.75 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1 µF"
+			(at 158.75 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm"
+			(at 155.9052 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 154.94 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 154.94 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "00fd0d19-256d-4e18-9d2c-b9d373e3042d")
+		)
+		(pin "2"
+			(uuid "c1ae30e1-4dab-41a9-bdbd-1b1a98b9be69")
+		)
+		(instances
+			(project "8-Bit-PC"
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
+					(reference "C43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 87.63 58.42 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3eb721bf-c986-4d23-88b2-cc64aef16bda")
+		(property "Reference" "#PWR0137"
+			(at 87.63 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 87.63 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3686,7 +3906,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "29fd85b1-d52a-4a9a-9e72-4eb3b7000e6d")
+			(uuid "f472b68e-8929-4fa2-b0a3-d34c0fe13d87")
 		)
 		(instances
 			(project "8-Bit-PC"
@@ -4038,6 +4258,76 @@
 			(project "8-Bit-PC"
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
 					(reference "#PWR0135")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 213.36 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4cee9f14-f897-4dc9-9655-fef9b1033af7")
+		(property "Reference" "C41"
+			(at 217.17 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1 µF"
+			(at 217.17 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm"
+			(at 214.3252 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 213.36 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 213.36 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "be064ef8-c397-438a-906e-2766e01bf78b")
+		)
+		(pin "2"
+			(uuid "29063cc2-9141-44db-af85-192245c276a8")
+		)
+		(instances
+			(project "8-Bit-PC"
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -4676,6 +4966,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 154.94 72.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "70c6094f-cb9b-4928-b3a8-7cc2b494b827")
+		(property "Reference" "#PWR0178"
+			(at 154.94 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 154.94 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 154.94 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 154.94 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9820c40c-13a0-457a-b145-23338dc9425e")
+		)
+		(instances
+			(project "8-Bit-PC"
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
+					(reference "#PWR0178")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 104.14 129.54 0)
 		(unit 1)
@@ -5116,7 +5472,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 46.99 58.42 0)
+		(at 46.99 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5125,7 +5481,7 @@
 		(fields_autoplaced yes)
 		(uuid "a28f4014-9799-4315-a7e2-7e6a50e043ab")
 		(property "Reference" "#PWR0132"
-			(at 46.99 62.23 0)
+			(at 50.8 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5134,7 +5490,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 46.99 53.34 0)
+			(at 45.72 55.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5390,6 +5746,76 @@
 			(project "8-Bit-PC"
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
 					(reference "R95")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 46.99 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d1f21fc7-6b1d-4908-bb61-49067f51c8a8")
+		(property "Reference" "C46"
+			(at 50.8 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1 µF"
+			(at 50.8 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm"
+			(at 47.9552 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 46.99 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 46.99 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "55f5a1fa-2c94-4e59-a384-c47fc8d68b4c")
+		)
+		(pin "2"
+			(uuid "bc1618b9-910a-466a-8f2a-290dea2ec1cd")
+		)
+		(instances
+			(project "8-Bit-PC"
+				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/01639e59-f640-4704-bff8-92b5a7e3f002"
+					(reference "C46")
 					(unit 1)
 				)
 			)
