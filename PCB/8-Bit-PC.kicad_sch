@@ -1824,16 +1824,6 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 45.72) (xy 184.15 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "897f68d4-e3ab-4457-8b73-c9148ede626e")
-	)
-	(wire
-		(pts
 			(xy 21.59 76.2) (xy 30.48 76.2)
 		)
 		(stroke
@@ -2034,6 +2024,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 50.8) (xy 184.15 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4bf243a-5166-44c8-ba87-e183533d840b")
+	)
+	(wire
+		(pts
 			(xy 24.13 73.66) (xy 30.48 73.66)
 		)
 		(stroke
@@ -2101,6 +2101,16 @@
 			(type default)
 		)
 		(uuid "d02c4344-ef2b-4591-8693-beb15d4f7d62")
+	)
+	(wire
+		(pts
+			(xy 190.5 50.8) (xy 184.15 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4b9ff3d-f839-46bb-9100-b846e2d73e25")
 	)
 	(wire
 		(pts
@@ -5348,7 +5358,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 193.04 45.72 180)
+		(at 193.04 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5357,7 +5367,7 @@
 		(fields_autoplaced yes)
 		(uuid "227e5dd9-9ba2-444e-8bb3-a38d004ed086")
 		(property "Reference" "#PWR0220"
-			(at 193.04 39.37 0)
+			(at 193.04 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5366,11 +5376,12 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 193.04 40.64 0)
+			(at 195.58 46.9899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -5414,7 +5425,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 165.1 52.07 270)
+		(at 165.1 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5423,7 +5434,7 @@
 		(fields_autoplaced yes)
 		(uuid "242f52f8-7923-4bd5-9e70-c4a83bf9ce8b")
 		(property "Reference" "#PWR0102"
-			(at 158.75 52.07 0)
+			(at 165.1 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5432,12 +5443,12 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 161.29 52.0699 90)
+			(at 167.64 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -5481,7 +5492,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 184.15 52.07 180)
+		(at 190.5 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5490,7 +5501,7 @@
 		(fields_autoplaced yes)
 		(uuid "245e8aca-2cb9-4cce-a5e3-caf5cb7799c6")
 		(property "Reference" "#PWR0104"
-			(at 184.15 48.26 0)
+			(at 190.5 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5499,15 +5510,16 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 184.15 57.15 0)
+			(at 193.04 49.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 184.15 52.07 0)
+			(at 190.5 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5516,7 +5528,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 52.07 0)
+			(at 190.5 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5525,7 +5537,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 184.15 52.07 0)
+			(at 190.5 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5982,7 +5994,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 158.75 26.67 270)
+		(at 158.75 26.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5991,7 +6003,7 @@
 		(fields_autoplaced yes)
 		(uuid "53dd0e6e-503b-4925-8353-acf9f7a77566")
 		(property "Reference" "#PWR0103"
-			(at 152.4 26.67 0)
+			(at 158.75 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6000,12 +6012,12 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 154.94 26.6699 90)
+			(at 161.29 27.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -7494,7 +7506,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 158.75 19.05 270)
+		(at 158.75 19.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7503,7 +7515,7 @@
 		(fields_autoplaced yes)
 		(uuid "fc110b78-3c5e-4f5c-886b-b06432c80f71")
 		(property "Reference" "#PWR0105"
-			(at 152.4 19.05 0)
+			(at 158.75 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7512,12 +7524,12 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 154.94 19.0499 90)
+			(at 161.29 20.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""

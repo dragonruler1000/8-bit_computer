@@ -3021,7 +3021,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 76.2) (xy 88.9 66.04)
+			(xy 88.9 76.2) (xy 88.9 67.31)
 		)
 		(stroke
 			(width 0)
@@ -3247,7 +3247,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 87.63 58.42 180)
+		(at 87.63 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3256,7 +3256,7 @@
 		(fields_autoplaced yes)
 		(uuid "06d89bff-8acf-4811-bc6e-b436ac8e2c3b")
 		(property "Reference" "#PWR0143"
-			(at 87.63 52.07 0)
+			(at 87.63 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3265,11 +3265,12 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 87.63 53.34 0)
+			(at 90.17 59.6899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -4092,7 +4093,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 88.9 66.04 0)
+		(at 88.9 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4101,7 +4102,7 @@
 		(fields_autoplaced yes)
 		(uuid "5b605924-4d8c-404d-818d-9ed98bcba4d5")
 		(property "Reference" "#PWR0110"
-			(at 88.9 69.85 0)
+			(at 88.9 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4110,7 +4111,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 88.9 60.96 0)
+			(at 88.9 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4118,7 +4119,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.9 66.04 0)
+			(at 88.9 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4127,7 +4128,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 66.04 0)
+			(at 88.9 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4136,7 +4137,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 88.9 66.04 0)
+			(at 88.9 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4398,7 +4399,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 213.36 72.39 90)
+		(at 213.36 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4407,7 +4408,7 @@
 		(fields_autoplaced yes)
 		(uuid "63506798-bc9b-4507-87e7-8d2cdc8e5a14")
 		(property "Reference" "#PWR0217"
-			(at 219.71 72.39 0)
+			(at 213.36 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4416,11 +4417,12 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 218.44 72.39 0)
+			(at 215.9 73.6599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -5040,7 +5042,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 167.64 64.77 180)
+		(at 167.64 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5049,7 +5051,7 @@
 		(fields_autoplaced yes)
 		(uuid "93cbda98-88be-4073-8728-4986d9fb3901")
 		(property "Reference" "#PWR0145"
-			(at 167.64 58.42 0)
+			(at 167.64 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5058,11 +5060,12 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 167.64 59.69 0)
+			(at 170.18 66.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -5106,7 +5109,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 109.22 64.77 180)
+		(at 109.22 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5115,7 +5118,7 @@
 		(fields_autoplaced yes)
 		(uuid "9da4263e-8ea9-4f78-9518-2aee9ab373de")
 		(property "Reference" "#PWR0144"
-			(at 109.22 58.42 0)
+			(at 109.22 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5124,11 +5127,12 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 109.22 59.69 0)
+			(at 111.76 66.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -5702,7 +5706,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 43.18 66.04 90)
+		(at 43.18 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5711,7 +5715,7 @@
 		(fields_autoplaced yes)
 		(uuid "e920cb41-2e85-437e-b619-67838ecb602f")
 		(property "Reference" "#PWR0218"
-			(at 49.53 66.04 0)
+			(at 43.18 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5720,11 +5724,12 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 48.26 66.04 0)
+			(at 45.72 67.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -5977,7 +5982,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 154.94 72.39 90)
+		(at 154.94 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5986,7 +5991,7 @@
 		(fields_autoplaced yes)
 		(uuid "f8e90482-efe3-4b26-8136-3efb17e2a269")
 		(property "Reference" "#PWR0216"
-			(at 161.29 72.39 0)
+			(at 154.94 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5995,11 +6000,12 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 160.02 72.39 0)
+			(at 157.48 73.6599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
