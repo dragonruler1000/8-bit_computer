@@ -4930,20 +4930,12 @@
 		(uuid "ae025637-900b-4669-8ac2-0a730a6c885a")
 	)
 	(no_connect
-		(at 327.66 87.63)
-		(uuid "bd842215-a844-4bc1-bb60-a8ec628f4142")
-	)
-	(no_connect
 		(at 342.9 72.39)
 		(uuid "c1e63c89-f20a-40f7-a862-c8100edc0d17")
 	)
 	(no_connect
 		(at 34.29 130.81)
 		(uuid "c96b2818-105a-44c0-a233-943f01cefbcf")
-	)
-	(no_connect
-		(at 342.9 87.63)
-		(uuid "f5bedc1d-be4a-4e87-9553-5d2a34db0f00")
 	)
 	(no_connect
 		(at 54.61 130.81)
@@ -10470,7 +10462,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom:SOIC16_9P9X3P9_ONS"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 170.18 40.64 0)
 			(effects
 				(font
@@ -12490,7 +12482,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom:SOIC16_9P9X3P9_ONS"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 58.42 40.64 0)
 			(effects
 				(font
@@ -12844,112 +12836,6 @@
 				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/fa2f47c1-e570-4190-9168-df734bfd379c"
 					(reference "R28")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "74xx:74LS04")
-		(at 275.59 64.77 90)
-		(unit 5)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c03972ba-024b-427e-a7f7-42ca365a8f15")
-		(property "Reference" "U5"
-			(at 280.67 63.4999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "74LS04"
-			(at 280.67 66.0399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
-			(at 275.59 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
-			(at 275.59 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Hex Inverter"
-			(at 275.59 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "9"
-			(uuid "d7e62d35-03c4-4b72-b5d9-4f2fc6e08978")
-		)
-		(pin "6"
-			(uuid "813f3035-60e7-458d-9c24-2f1a3ea5f1f4")
-		)
-		(pin "14"
-			(uuid "a48bdc78-1265-48f9-98ec-e736a60a716e")
-		)
-		(pin "8"
-			(uuid "89dbef8f-d4bd-498e-b164-b5a67b4836b3")
-		)
-		(pin "2"
-			(uuid "e45312cd-2951-4664-b136-8b33417fdc34")
-		)
-		(pin "12"
-			(uuid "665de620-604a-46fa-8caf-2516d0ac7264")
-		)
-		(pin "4"
-			(uuid "7f3bdd81-f728-4346-944b-9685b8d7a141")
-		)
-		(pin "5"
-			(uuid "88ceee99-edaa-4936-a3e3-27d4459af58e")
-		)
-		(pin "11"
-			(uuid "7c6f6dc4-5651-41e7-b6f0-4bccac769294")
-		)
-		(pin "13"
-			(uuid "1e764895-7a0e-4318-a16b-e79f2bf70419")
-		)
-		(pin "7"
-			(uuid "85bf45eb-64b4-49c2-b1cc-a4afc29072fd")
-		)
-		(pin "3"
-			(uuid "660999c9-69d8-4326-ad15-32af723202f3")
-		)
-		(pin "1"
-			(uuid "ec9b207c-319d-45fb-8286-31eb78b2e32f")
-		)
-		(pin "10"
-			(uuid "dc2035bf-ded5-4907-b20d-29255f6c2b96")
-		)
-		(instances
-			(project ""
-				(path "/48633dea-2de9-4b6f-aeff-2ee54233f918/fa2f47c1-e570-4190-9168-df734bfd379c"
-					(reference "U5")
-					(unit 5)
 				)
 			)
 		)
@@ -14615,7 +14501,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS04")
-		(at 335.28 87.63 0)
+		(at 275.59 64.77 90)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14624,23 +14510,25 @@
 		(fields_autoplaced yes)
 		(uuid "d9bbc08f-4b8e-429f-8ce0-3e336e8edd2e")
 		(property "Reference" "U22"
-			(at 335.28 78.74 0)
+			(at 280.67 63.4999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "74LS04"
-			(at 335.28 81.28 0)
+			(at 280.67 66.0399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
-			(at 335.28 87.63 0)
+			(at 275.59 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14649,7 +14537,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
-			(at 335.28 87.63 0)
+			(at 275.59 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14658,7 +14546,7 @@
 			)
 		)
 		(property "Description" "Hex Inverter"
-			(at 335.28 87.63 0)
+			(at 275.59 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
