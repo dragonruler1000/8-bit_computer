@@ -520,7 +520,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "sanity_check/",
+      "plot": "8-bitpc-gerbers/",
       "pos_files": "",
       "specctra_dsn": "8-Bit-PC.dsn",
       "step": "8-Bit-PC.stl",
