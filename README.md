@@ -13,6 +13,7 @@ PCB
 <img width="1358" height="671" alt="Screenshot_20251210_205303" src="https://github.com/user-attachments/assets/b63f70f5-8c3c-4d20-a073-f8c965b3f167" />
 Case 3d model <br/>
 <img width="840" height="684" alt="Screenshot_20251210_205432" src="https://github.com/user-attachments/assets/b743d480-40ea-4226-96c2-4ce7099b4c30" />
+Case is split into two with each part being the same just rotated 180 degrees
 # BOM
 
 | Quantity | Value                            | Unit Price $ | Total price $ | price with coupns | Link                                                                                                                                                | running total | running total with coupons | notes                                                 | Customer number |
