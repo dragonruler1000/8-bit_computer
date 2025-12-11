@@ -6,14 +6,15 @@ It is programed by the dip switches the 4 possition is for addres and the 8 poss
 more detailed instructions are going to be added after i get the pc built and the microcode working.
 # pictures
 Full 3D model<br>
-<img width="793" height="522" alt="Screenshot_20251110_180928" src="https://github.com/user-attachments/assets/9c5833fd-f2ce-48fe-91dd-45b61c28c66a" /><br>
+<img width="1190" height="612" alt="fits in case" src="https://github.com/user-attachments/assets/7300d7e2-46df-4719-a7ed-a1c8b7b8f9bf" />
 PCB 3d model
-<img width="1083" height="605" alt="image" src="https://github.com/user-attachments/assets/73965500-a31c-47f8-b1ad-680698a0f2b9" />
+<img width="1470" height="735" alt="Screenshot_20251210_205025" src="https://github.com/user-attachments/assets/110e7366-5312-4077-b6a3-bd5c71ff7269" />
 PCB
-<img width="1367" height="696" alt="Screenshot_20251107_200941" src="https://github.com/user-attachments/assets/628024c5-a7d2-492d-949b-10181540a5f0" />
-Case 3d model
-<img width="1344" height="720" alt="Screenshot_20251108_090502" src="https://github.com/user-attachments/assets/3262732e-0a29-4f9e-8380-44750e9c4f33" />
+<img width="1358" height="671" alt="Screenshot_20251210_205303" src="https://github.com/user-attachments/assets/b63f70f5-8c3c-4d20-a073-f8c965b3f167" />
+Case 3d model <br/>
+<img width="840" height="684" alt="Screenshot_20251210_205432" src="https://github.com/user-attachments/assets/b743d480-40ea-4226-96c2-4ce7099b4c30" />
 # BOM
+
 | Quantity | Value                            | Unit Price $ | Total price $ | price with coupns | Link                                                                                                                                                | running total | running total with coupons | notes                                                 | Customer number |
 |----------|----------------------------------|--------------|---------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|---------------|----------------------------|-------------------------------------------------------|-----------------|
 | 10       | 1k resistor                      | 0.026        | 0.26          | 0.26              | https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT1K00/1741314                                                             | 0.28          | 0.28                       |                                                       | 1               |
