@@ -13,7 +13,21 @@ PCB
 <img width="1358" height="671" alt="Screenshot_20251210_205303" src="https://github.com/user-attachments/assets/b63f70f5-8c3c-4d20-a073-f8c965b3f167" />
 Case 3d model <br/>
 <img width="840" height="684" alt="Screenshot_20251210_205432" src="https://github.com/user-attachments/assets/b743d480-40ea-4226-96c2-4ce7099b4c30" />
-Case is split into two with each part being the same just rotated 180 degrees
+Case is split into two with each part being the same just rotated 180 degrees</br>
+Schematic:
+<img width="2480" height="3507" alt="image" src="https://github.com/user-attachments/assets/4fdba2d6-9506-49cb-b0a0-3b5b1c3ab06b" />
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/5e9649de-a7a9-4ac6-a413-67ffd7aba66d" />
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/3041f570-a9dd-4425-ae00-f3edcb8ab190" />
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/53205bf5-2ceb-45b9-9562-3cdbc2e111a2" />
+<img width="4960" height="3507" alt="image" src="https://github.com/user-attachments/assets/dd60845a-80a9-4764-92c8-256b1bd132de" />
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/26e096f0-d872-4358-a388-259ec63cb42b" />
+<img width="4960" height="3507" alt="image" src="https://github.com/user-attachments/assets/93ed388d-a3c8-466b-93f6-cd5f7f96be62" />
+<img width="2480" height="1748" alt="image" src="https://github.com/user-attachments/assets/7ef9eb5c-0c6f-478c-86d2-739b0b2ea344" />
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/4b7b062b-7c2b-4f52-bfc5-ae7cab1d05d3" />
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/a2b8a6cd-e82b-425b-bfe7-750b07885a30" />
+<img width="4200" height="2550" alt="image" src="https://github.com/user-attachments/assets/7bf6a762-324c-41a4-a48e-a97ddbb85da0" />
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/f3538dcd-d57d-4d5e-be0b-08030035674f" />
+
 # BOM
 
 | Quantity | Value                            | Unit Price $ | Total price $ | price with coupns | Link                                                                                                                                  | running total | running total with coupons | notes                                                 | Customer number |
